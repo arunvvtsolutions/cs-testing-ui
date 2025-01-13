@@ -27,7 +27,7 @@ const MyApp = ({ children }: { children: ReactNode }) => {
                 {/* <Notistack> */}
                 <>
           
-                <Link href="https://www.w3schools.com/js/" target='blank'>Click w3</Link>
+                <Link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target='blank'>Click w3</Link>
 
                   {children}
                   <Snackbar />
