@@ -1,0 +1,39 @@
+.swiperBox {
+  width: 100%;
+  margin: auto;
+  display: block;
+  position: relative;
+}
+
+.cards {
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.cardImage {
+  width: 100%;
+  position: relative;
+  padding-top: 56%;
+  display: block;
+  overflow: hidden;
+}
+
+.collegeImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+
+.mainContainer {
+  margin-bottom: 61px;
+}
+
+@media (max-width: 900px) {
+  .mainContainer {
+    margin-bottom: 35px;
+  }
+}

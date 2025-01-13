@@ -1,0 +1,78 @@
+.campusSection {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.campusMainCard {
+    padding: 8px 16px;
+}
+
+.campusDescription {
+    padding-top: 16px;
+}
+
+.campusDesc {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 24px !important;
+}
+
+.campusValue {
+    color: #202124;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.campusText {
+    color: rgba(32, 33, 36, 0.7);
+    font-family: inherit;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+
+}
+
+.graphBox {
+    margin-bottom: 5%;
+}
+
+@media (max-width: 992px) {
+    .campusBox {
+        border-radius: 8px;
+        border: 1px solid #DFE1E6;
+        background: #FFF;
+        padding: 12px 16px;
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .campusBox:last-child {
+        margin-bottom: 0px;
+    }
+
+    .campusSection {
+        display: block;
+        width: 100%;
+    }
+
+    .campusValue {
+        color: #1452A4;
+    }
+
+    .campusMainCard {
+        padding: 10px 0 0 0;
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .campusDescription {
+        padding-top: 0px;
+    }
+}

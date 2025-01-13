@@ -1,0 +1,277 @@
+.compareMainWrapper {
+  max-width: 1264px;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  border-radius: 16px;
+  background: #0b6049;
+  padding: 60px 70px;
+  margin-bottom: 90px;
+}
+
+/* .compareContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.compareTitleContainer {
+  max-width: 586px;
+  width: 100%;
+}
+
+.compareTitle {
+  color: #fff;
+  font-family: inherit;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  text-wrap: balance;
+  margin-bottom: 20px;
+}
+
+.compareSubTitle {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  max-width: 581px;
+  margin-bottom: 75px;
+}
+
+.listedCard {
+  background: #094d3a;
+  border-radius: 20px;
+  max-width: 615px;
+  width: 100%;
+}
+.errorText {
+  color:rgb(217,48,37);
+  font-size: 14px;
+  margin-top: 10px;
+}
+.listedUi {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.listedCard > .listedUi:last-child {
+  border-bottom: 0;
+}
+
+.listedLi {
+  color: rgba(255, 255, 255, 0.8);
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.predictCard {
+  border-radius: 20px;
+  background: #fff;
+  padding: 30px;
+  max-width: 470px;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.predictTitle {
+  color: #202124;
+  font-family: inherit;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  margin-bottom: 40px;
+  white-space: nowrap;
+}
+
+.predictButton {
+  display: flex;
+  margin-top: 43px;
+  width: 100%;
+  padding: 14px 0px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  color: #fff;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  background: #0b6049;
+}
+
+.predictButton:hover {
+  background: #094d3a;
+}
+
+.readMoreBtn {
+  color: #fff;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+
+.readMoreIcon {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.readMoreIcon.rotate {
+  transform: rotate(180deg);
+  transition: transform 0.3s;
+}
+
+.readMoreWrapper {
+  display: none;
+  margin-bottom: 22px;
+}
+
+.dropDownCard {
+  width: 100%;
+  border-radius: 4px;
+  background: rgba(245, 245, 245, 0.7);
+}
+
+.dropDownCard fieldset {
+  border-radius: 4px !important;
+  border-style: solid;
+  border-color: rgba(60, 60, 67, 0.15) !important;
+  border-width: 1px !important;
+}
+
+.dropDownCard:hover fieldset {
+  border-radius: 4px !important;
+  border-width: 1px !important;
+  border-style: solid;
+  border-color: #0b6049 !important;
+}
+
+.circleIcon {
+  color: #0d7358;
+  width: 16px;
+  height: 16px;
+}
+
+.mgBm1 {
+  margin-bottom: 16px;
+}
+
+.mgBm2 {
+  margin-bottom: 10px;
+}
+
+.dropDownCard.Mui-focused fieldset {
+  border-color: rgba(60, 60, 67, 0.15) !important;
+}
+
+@media (max-width: 992px) {
+  .compareTitle {
+    color: #fff;
+    font-family: inherit;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+  }
+  .container {
+    padding: 30px 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .predictCard {
+    padding: 30px 20px;
+    display: 'flex';
+    flex-direction: 'column';
+    justify-content: 'center';
+    align-items: 'center';
+    margin-left: 0px;
+  }
+
+  .predictTitle {
+    font-size: 25px;
+    margin-bottom: 40px;
+    white-space: wrap;
+  }
+
+  .listedCard {
+    margin-bottom: 30px;
+  }
+
+  .listedUi {
+    padding: 13px;
+  }
+
+  .listedLi {
+    font-size: 14px;
+  }
+
+  .compareSubTitle {
+    margin-bottom: 25px;
+  }
+
+  .dropDownCard {
+    width: 100%;
+  }
+
+  .predictButton {
+    width: 100%;
+    padding: 17px 0px;
+    font-size: 16px;
+  }
+  .container {
+    padding: 30px 16px !important;
+  }
+  .compareSubTitle {
+    font-size: 16px;
+  }
+  .errorText {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1400px){
+  .compareTitleContainer {
+    max-width: 100%;
+    width: 100%;
+  }
+  .container {
+    padding: 35px;
+    margin-bottom: 60px;
+  }
+  .predictCard {
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .readMoreWrapper {
+    display: block;
+  }
+
+  .predictCard {
+    max-width: 100% !important;
+
+  }
+  
+}

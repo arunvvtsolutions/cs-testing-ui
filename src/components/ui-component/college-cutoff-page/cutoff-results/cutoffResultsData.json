@@ -1,0 +1,138 @@
+{
+  "years": [2020, 2021, 2022],
+  "results": [
+    {
+      "id": 1,
+      "round": 1,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "5855"
+        },
+        {
+          "year": 2021,
+          "rank": "5855"
+        },
+        {
+          "year": 2022,
+          "rank": "5855"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "round": 2,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "5864"
+        },
+        {
+          "year": 2021,
+          "rank": "5887"
+        },
+        {
+          "year": 2022,
+          "rank": "5845"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "round": 3,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "6555"
+        },
+        {
+          "year": 2021,
+          "rank": "7155"
+        },
+        {
+          "year": 2022,
+          "rank": "5855"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "round": 4,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "5655"
+        },
+        {
+          "year": 2021,
+          "rank": "5875"
+        },
+        {
+          "year": 2022,
+          "rank": "5895"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "round": 5,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "5855"
+        },
+        {
+          "year": 2021,
+          "rank": "5855"
+        },
+        {
+          "year": 2022,
+          "rank": "5855"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "round": 6,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "5898"
+        },
+        {
+          "year": 2021,
+          "rank": "5876"
+        },
+        {
+          "year": 2022,
+          "rank": "5854"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "round": 7,
+      "course": "Civil Engineering (4 Years, Bachelor of Technology)",
+      "closingRank": [
+        {
+          "year": 2020,
+          "rank": "-"
+        },
+        {
+          "year": 2021,
+          "rank": "-"
+        },
+        {
+          "year": 2022,
+          "rank": "-"
+        }
+      ]
+    }
+  ]
+}

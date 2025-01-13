@@ -1,0 +1,11 @@
+{
+  "title": "UG Across Year Graduations",
+  "comparedData": {
+    "categories": ["2021", "2022", "2023"],
+    "series": [
+      { "data": [8000, 7000, 8000], "name": "IIT MADRAS"  },
+      { "data": [2000, 2000, 2000], "name": "IIT DELHI" },
+      { "data": [5000, 10000, 2000], "name": "IIT BOMBAY" }
+    ]
+  }
+}

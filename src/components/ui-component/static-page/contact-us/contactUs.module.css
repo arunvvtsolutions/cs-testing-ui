@@ -1,0 +1,174 @@
+.titleWraper {
+  margin-bottom: 30px;
+}
+
+.title {
+  color: #151515;
+  font-family: inherit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.mainContainer {
+  margin: auto;
+  max-width: 748px;
+}
+
+.description {
+  color: rgba(32, 33, 36, 0.7);
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.descWraper {
+  margin-top: 30px;
+}
+
+.mailWraper {
+  margin: 60px 0px;
+}
+
+.mailItem {
+  margin-bottom: 8px;
+}
+
+.contactHeading {
+  color: #151515;
+  font-family: inherit;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.contactMail {
+  color: #1a73e8;
+  font-family: inherit;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.getSupportWraper {
+  margin-bottom: 40px;
+}
+
+.contactHeadingItem {
+  margin-bottom: 20px;
+}
+
+.custom-input {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 16px !important;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px !important;
+}
+
+.custom-fieldset {
+  border: none;
+}
+
+.textFieldItem {
+  margin-bottom: 26px;
+}
+
+.autoSizeTextArea {
+  width: 100% !important;
+  height: 162px !important;
+  color: rgba(34, 40, 49, 0.7);
+  font-family: inherit;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  min-height: 100px !important;
+  padding: 16px !important;
+  background: #fff !important;
+  border: 1px solid #e0e0e0 !important;
+  border-radius: 4px !important;
+  outline: none !important;
+  color: black !important;
+  font-family: inherit !important;
+  resize: none;
+}
+
+.sendButton {
+  border-radius: 4px;
+  border: 1px solid #119d78;
+  background: #119d78;
+  color: #fff;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 600;
+  width: 100%;
+  padding: 16px;
+}
+
+.sendButton:hover {
+  background: #119d78;
+}
+
+.buttonWraper {
+  margin-bottom: 90px;
+}
+
+.errorText {
+  color: red;
+  font-size: 16px;
+}
+
+/* All media query */
+
+@media (max-width: 992px) {
+  .title {
+    font-size: 30px;
+  }
+
+  .titleWraper {
+    margin-bottom: 20px;
+  }
+
+  .mainContainer {
+    margin: 0px;
+    width: 100%;
+    padding: 0px 6px;
+  }
+
+  .descWraper {
+    margin-top: 20px;
+  }
+
+  .contactMail {
+    font-size: 20px;
+  }
+
+  .contactHeading {
+    font-size: 20px;
+  }
+
+  .mailWraper {
+    margin: 40px 0px;
+  }
+
+  .contactHeadingItem {
+    margin-bottom: 26px;
+  }
+
+  .textFieldItem {
+    margin-bottom: 20px;
+  }
+
+  .getSupportWraper {
+    margin-bottom: 30px;
+  }
+
+  .buttonWraper {
+    margin-bottom: 60px;
+  }
+}

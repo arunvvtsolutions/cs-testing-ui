@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  web:
+    build:
+      context: ./
+      target: runner
+      dockerfile: Dockerfile_dev
+    #volumes:
+    #  - .:/app
+    #  - /app/node_modules
+    #  - /app/.next
+    ports:
+      - "4343:80"
+    environment:
+      NODE_ENV: development

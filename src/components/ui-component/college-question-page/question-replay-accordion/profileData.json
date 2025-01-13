@@ -1,0 +1,34 @@
+[
+  {
+    "userId": 123,
+    "userName": "Hari",
+    "reviewId": 3,
+    "collegeId": 208,
+    "addedDate": "2023-08-23 02:18:05",
+    "profile":"/assets/images/user.png"
+  },
+  {
+    "userId": 124,
+    "userName": "Syed",
+    "reviewId": 4,
+    "collegeId": 209,
+    "addedDate": "2023-09-21 05:38:35",
+    "profile":"/assets/images/user.png"
+  },
+  {
+    "userId": 125,
+    "userName": "Dilip",
+    "reviewId": 6,
+    "collegeId": 209,
+    "addedDate": "2023-10-03 07:40:03",
+    "profile":"/assets/images/user.png"
+  },
+  {
+    "userId": 126,
+    "userName": "Kirubha",
+    "reviewId": 6,
+    "collegeId": 210,
+    "addedDate": "2023-05-20 09:48:04",
+    "profile":"/assets/images/user.png"
+  }
+]

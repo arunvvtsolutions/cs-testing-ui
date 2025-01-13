@@ -1,0 +1,18 @@
+ {
+    "year":2022,
+    "cutoffClosingRankData": [
+        {
+            "closingRank": 597218,
+            "round": "1 Round"
+        },
+        {
+            "closingRank": 784325,
+            "round": "2 Round"
+        },
+        {
+            "closingRank": 559036,
+            "round": "Mop Up Round"
+        }
+
+    ]
+   }

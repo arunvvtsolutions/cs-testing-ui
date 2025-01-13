@@ -1,0 +1,16 @@
+{
+  "coursesShort": [
+    {
+      "id": 1,
+      "name": "B.E/B.Tech",
+      "collegeId": 1,
+      "collegeType": 1
+    },
+    {
+      "id": 2,
+      "name": "M.E/M.Tech",
+      "collegeId": 1,
+      "collegeType": 1
+    }
+  ]
+}

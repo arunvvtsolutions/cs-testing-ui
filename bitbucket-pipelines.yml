@@ -1,0 +1,12 @@
+# Node image to use
+image: node:18.16.1
+
+# Pipeline for Buidling CS_UI from feature branch
+pipelines:
+  pull-requests:
+    feature/*:
+     - step:
+        name: 'Build CS_UI Application'
+        script:
+          - npm install --legacy-peer-deps
+          - npm run build

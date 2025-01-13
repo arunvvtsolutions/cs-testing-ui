@@ -1,0 +1,11 @@
+.formWrapper {
+    max-width: 469px;
+    margin: 140px auto 40px;
+    display: block;
+}
+
+@media(max-width:992px) {
+    .formWrapper {
+        margin: 60px auto 20px;
+    }
+}

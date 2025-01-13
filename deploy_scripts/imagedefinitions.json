@@ -1,0 +1,6 @@
+[
+    {
+      "name": "cs-ui",
+      "imageUri": "885134767910.dkr.ecr.ap-south-1.amazonaws.com/cs-staging01:cs_ui_v_latest"
+    }
+  ]

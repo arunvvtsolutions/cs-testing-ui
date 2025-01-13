@@ -1,0 +1,83 @@
+{
+    "otherCourseData": [
+      {
+        "courseId": 1,
+        "courseName": "Mechanical Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 2,
+        "courseName": "Computer Science And Engineering Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 3,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 4,
+        "courseName": "Metallurgical And Materials Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 5,
+        "courseName": "Aerospace Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 6,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      },
+      {
+        "courseId": 7,
+        "courseName": "Naval Architecture And Ocean  Engineering",
+        "shortUrl": "https://example.com",
+        "longUrl": "https://example.com"
+      }
+    ]
+  }
+  

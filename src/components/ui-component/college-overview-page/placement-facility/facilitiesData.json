@@ -1,0 +1,101 @@
+{
+  "shortName": "IIT Madras",
+  "facilities": [
+    {
+      "collegeId": 1,
+      "id": 1,
+      "altName": "playground",
+      "name": "Playground",
+      "image": "/assets/images/placement-images/490797161Group23284.png",
+      "addedDate": "2022-12-07 09:46:22"
+    },
+    {
+      "collegeId": 1,
+      "id": 2,
+      "altName": "auditorium",
+      "name": "Auditorium",
+      "image": "/assets/images/placement-images/788174805Group23282.png",
+      "addedDate": "2022-12-07 09:46:27"
+    },
+    {
+      "collegeId": 1,
+      "id": 3,
+      "altName": "theatre",
+      "name": "Theatre",
+      "image": "/assets/images/placement-images/2136060625Group23286.png",
+      "addedDate": "2022-12-07 09:46:31"
+    },
+    {
+      "collegeId": 1,
+      "id": 4,
+      "altName": "library",
+      "name": "Library",
+      "image": "/assets/images/placement-images/2140594002Group23288.png",
+      "addedDate": "2022-12-07 09:46:33"
+    },
+    {
+      "collegeId": 1,
+      "id": 5,
+      "altName": "laboratory",
+      "name": "Laboratory",
+      "image": "/assets/images/placement-images/970439085Laboratory.png",
+      "addedDate": "2022-12-07 09:46:34"
+    },
+    {
+      "collegeId": 1,
+      "id": 6,
+      "altName": "conference_hall",
+      "name": "Conference Hall",
+      "image": "/assets/images/placement-images/989885635Group23286.png",
+      "addedDate": "2022-12-07 09:46:37"
+    },
+    {
+      "collegeId": 1,
+      "id": 7,
+      "altName": "health_center",
+      "name": "Health Center",
+      "image": "/assets/images/placement-images/399014111Vector.png",
+      "addedDate": "2022-12-07 09:46:39"
+    },
+    {
+      "collegeId": 1,
+      "id": 8,
+      "altName": "gymnasium_fitness_center",
+      "name": "Gymnasium Fitness Center",
+      "image": "/assets/images/placement-images/964959956Group.png",
+      "addedDate": "2022-12-07 09:46:42"
+    },
+    {
+      "collegeId": 1,
+      "id": 9,
+      "altName": "indoor_stadium",
+      "name": "Indoor Stadium",
+      "image": "/assets/images/placement-images/1710520696IndoorStadium.png",
+      "addedDate": "2022-12-07 09:46:45"
+    },
+    {
+      "collegeId": 1,
+      "id": 10,
+      "altName": "common_room",
+      "name": "Common Room",
+      "image": "/assets/images/placement-images/1871467362CommonRoom.png",
+      "addedDate": "2022-12-07 09:46:49"
+    },
+    {
+      "collegeId": 1,
+      "id": 11,
+      "altName": "computer_center",
+      "name": "Computer Center",
+      "image": "/assets/images/placement-images/348983036Group23283.png",
+      "addedDate": "2022-12-07 09:46:51"
+    },
+    {
+      "collegeId": 1,
+      "id": 12,
+      "altName": "cafeteria_place",
+      "name": "Cafeteria Place",
+      "image": "/assets/images/placement-images/1437741812cafeteria.png",
+      "addedDate": "2022-12-07 09:46:55"
+    }
+  ]
+}

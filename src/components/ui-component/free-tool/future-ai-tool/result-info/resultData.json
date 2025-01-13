@@ -1,0 +1,18 @@
+{
+    "collegeName":"Indian Institute of Technology Madras",
+    "courseName":"Electronics and Communication Engineering (4 Years, Bachelor of Technology)",
+    "result":[
+        {
+            "quota":"AI (All India Rank)",
+            "opening":"5332",
+            "closing":"9700",
+            "gender":"Gender-Neutral"
+        },
+        {
+            "quota":"AI (All India Rank)",
+            "opening":"12298",
+            "closing":"16845",
+            "gender":"Female-only (including Supernumerary)"
+        }
+    ]
+}

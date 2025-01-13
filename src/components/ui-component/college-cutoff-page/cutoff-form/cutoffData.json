@@ -1,0 +1,41 @@
+{
+  "course": [
+    {
+      "courseId": 1,
+      "name": "Aerospace Engineering (4 years Bachelor of technology)"
+    },
+    {
+      "courseId": 2,
+      "name": "Bilogical Engineering (5 years Bachelor of technology)"
+    },
+    {
+      "courseId": 3,
+      "name": "Computer Science and Technology (4 years Bachelor of technology)"
+    },
+    {
+      "courseId": 4,
+      "name": "Mechanical Engineering (4 years Bachelor of technology)"
+    },
+    {
+      "courseId": 5,
+      "name": "Civil Engineering (4 years Bachelor of technology)"
+    }
+  ],
+
+  "quota": [
+    { "quotaId": 1, "courseId": 1, "name": "AI" },
+    { "quotaId": 2, "courseId": 2, "name": "ML" }
+  ],
+
+  "caste": [
+    { "casteId": 1, "quotaId": 1, "name": "EWS" },
+    { "casteId": 2, "quotaId": 1, "name": "OPEN" },
+    { "casteId": 3, "quotaId": 1, "name": "SC" },
+    { "casteId": 4, "quotaId": 2, "name": "ST" },
+    { "casteId": 5, "quotaId": 2, "name": "OBC-NCL" }
+  ],
+  "gender": [
+    { "genderId": 1, "casteId": 1, "name": "Gender-Neutral" },
+    { "genderId": 2, "casteId": 2, "name": "Female-only" }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+    "shortname": "IIT Madras",
+    "faqs": [
+      {
+        "faqId": 6,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2023-07-31 06:49:35",
+        "question": "What is the primary language of instruction for all the courses at IITM?",
+        "answer": "All accredited courses provided by the institution are only available in English, with no regard to the preferred regional languages that are highlighted."
+      },
+      {
+        "faqId": 7,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:24:02",
+        "question": "Are they available in other regional languages for better understanding or not?",
+        "answer": "They are not available in any of the preferred regional languages as all the courses offered by the institution are taught only in English. This is applicable to both offline and online engineering aspirants."
+      },
+      {
+        "faqId": 8,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:24:26",
+        "question": "What is the time duration of the online program for working professionals?",
+        "answer": "There are 4 weeks of online courses and assignments to be completed. Those who secure the minimum required scores in weekly assignments will have to write a qualifying exam based on the 4 weeks of content."
+      },
+      {
+        "faqId": 9,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:24:39",
+        "question": "Name a few advanced technological requirements for online courses at IIT Madras.",
+        "answer": "Access to a good internet connection and a laptop or desktop device would be necessitated. The learners should be able to travel to assigned exam centres for quizzes and exams each term."
+      },
+      {
+        "faqId": 10,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:24:56",
+        "question": "Enumerate the overall structures for online and offline courses offered at IIT Madras.",
+        "answer": "The overall structure is split into three categories, such as the foundational levels (8 courses); the diploma level (6 programming courses + 6 data science courses); and the degree level ( 11 courses)."
+      },
+      {
+        "faqId": 11,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-27 14:09:44",
+        "question": "Where can I get my queries resolved regarding the enrolled courses at IITM?",
+        "answer": "You can very well get all your doubts cleared by referring to the institution's official website or else a blog page that includes the courses offered, admissions, placements, eligibility criteria, and so on."
+      },
+      {
+        "faqId": 12,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:25:27",
+        "question": "How can I get my queries resolved regarding the enrolled courses at IITM?",
+        "answer": "The institution provides online chatbot support to resolve all the requisite queries in the very first instance. Refer to our official blog page for college suggestions to know more about IIT Madras."
+      },
+      {
+        "faqId": 13,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:25:41",
+        "question": "Is IITM easily accessible for every student in India and abroad?",
+        "answer": "Yes, of course, the Indian Institute of Technology Madras is well and truly accessible by everyone who resides within India or else who stays abroad too."
+      },
+      {
+        "faqId": 14,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-27 14:07:15",
+        "question": "When will the term start and what's the timeline for online and offline courses?",
+        "answer": "The time frame for both offline and online courses may vary depending on the course type and duration."
+      },
+      {
+        "faqId": 15,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:26:26",
+        "question": "What type of residency is available at IITM?",
+        "answer": "You may choose between being a Hosteller or a day scholar based on your preference at the time of joining the Institute."
+      },
+      {
+        "faqId": 16,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:26:38",
+        "question": "What are all the documents or files required to be uploaded in the application form?",
+        "answer": "The original admit card of JEE (Advanced), proof of payment, Class X mark sheet and board certificate (original and two photocopies), Class XII mark sheets and pass certificate in original and two copies."
+      },
+      {
+        "faqId": 17,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2023-07-31 06:49:48",
+        "question": "How can I upload my GATE score to register for the admission process in 2022?",
+        "answer": "Scan your GATE Score card and upload it under the <strong>Supporting Documents</strong> field provided on the <strong>Basic Profile</strong> page."
+      },
+      {
+        "faqId": 18,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:27:05",
+        "question": "How do I know whether my application form has been successfully registered or not?",
+        "answer": "Application status for HSEE 2022 can be checked on the official website of IIT Madras. The registered candidates can visit the official website of the institution to track their application status with their registered login credentials."
+      },
+      {
+        "faqId": 19,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:27:23",
+        "question": "How to download the registered application form after the fee payment at IIT Madras?",
+        "answer": "You can download the application form by logging in with the registered credentials in PDF format, relying upon your preferred choice of selection."
+      },
+      {
+        "faqId": 20,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-26 10:27:36",
+        "question": "Is IIT Madras a residential institute?",
+        "answer": "IIT Madras is a residential institute and provides accommodation to students in the hostels. There are 20 hostels, all named after the mighty rivers of India."
+      },
+      {
+        "faqId": 21,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-27 14:09:26",
+        "question": "Is staying at IITM compulsory for a student who's residing in the same state?",
+        "answer": "No, it is not mandatory for everyone to stay in the hostels of IIT Madras. Students can choose any of the options, from hostels to other hostels, flats or PGs."
+      },
+      {
+        "faqId": 24,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-27 14:09:59",
+        "question": "Is HSEE conducted by IIT Madras tougher than any other competitive examination?",
+        "answer": "The HSEE exam is an entrance exam for master's programs conducted by IIT, Madras. Since the HSEE exam is quite tough with increasing competitiveness, you need proper HSEE preparation."
+      },
+      {
+        "faqId": 22,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-27 14:10:18",
+        "question": "What are the different payment methods available for students at IIT Madras?",
+        "answer": "SBI Net Banking, State Bank ATM and Debit Cards, Other Bank Debit and Credit Cards , Other Bank's Net Banking and through SBI BRANCHES."
+      },
+      {
+        "faqId": 23,
+        "collegeId": "1",
+        "sections": "1",
+        "addedDate": "2022-08-29 06:51:25",
+        "question": "What is something special about IIT Madras all the time?",
+        "answer": "IIT Madras has been the top-ranked engineering institute in India for four consecutive years, as well as the 'Best Educational Institution' in the Overall Category in the NIRF Rankings of 2019."
+      }
+    ]
+  }
+  
