@@ -1,0 +1,62 @@
+{
+  "resultGraphData": {
+    "placementData": {
+      "title": "Placements Percentage",
+      "categories": ["2021", "2022", "2022"],
+      "series": [
+        {
+          "name": "Percentage",
+          "data": [44, 55, 57]
+        }
+      ]
+    },
+    "salaryPackageData": {
+      "title": "Salary Package",
+      "categories": ["2021", "2022", "2022"],
+      "series": [
+        {
+          "name": "Salary Package",
+          "data": [44000, 55000, 57000]
+        }
+      ]
+    },
+    "graduationRateData": {
+      "title": "Graduation Rate",
+      "categories": ["2021", "2022", "2022"],
+      "series": [
+        {
+          "name": "Graduation Rate",
+          "data": [454, 135, 527]
+        }
+      ]
+    },
+    "cutoffData": {
+      "title": "Cut-off Trends",
+      "categories": ["2021", "2022", "2022"],
+      "series": [
+        {
+          "name": "Cut-off Trends",
+          "data": [144, 535, 575]
+        }
+      ]
+    },
+    "expenditureData": {
+      "title": "Expenditure",
+      "categories": ["2021", "2022", "2022"],
+      "series": [
+        {
+          "name": "Expenditure",
+          "data": [474, 551, 107]
+        }
+      ]
+    }
+  },
+  "resultData": {
+    "collegeName" : "Indian Institute of Technology Madras",
+    "nirfRank": 1,
+    "nirfScore": 90.04,
+    "campusArea": 611.332,
+    "establishedYear": 1959,
+    "Ownership": "Government"
+  }
+}

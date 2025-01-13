@@ -1,0 +1,146 @@
+.reviewLeftCol {
+  padding-right: 10px;
+  border-right: 1px solid #cfcfd0;
+  padding-top: 10px;
+}
+
+.reviewRightCol {
+  /* padding-left: 20px; */
+  padding-top: 10px;
+}
+
+.reviewSecBody {
+  display: block;
+}
+
+.subHeadText {
+  color: #202124;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-right: 15px;
+}
+
+.linkTxt {
+  border-radius: 8px;
+  background-color: #fbfbfb;
+  color: #1a73e8;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  white-space: wrap;
+}
+
+.linkTxt:hover {
+  color: #091e44;
+}
+
+.hintTxt {
+  color: rgba(32, 33, 36, 0.7);
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.num {
+  color: #202124;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-right: 10px;
+}
+
+.topBox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.hinttext2 {
+  color: rgba(32, 33, 36, 0.7);
+  text-align: justify;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 14px;
+}
+
+.ratetxt {
+  color: rgba(32, 33, 36, 0.7);
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.progressBxWarp {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  width: 100%;
+}
+
+.leftColText {
+  display: block;
+  max-width: 75px;
+  min-width: 75px;
+  margin-right: 10px;
+}
+
+.rightColText {
+  display: block;
+  max-width: 45px;
+  min-width: 45px;
+  margin-left: 10px;
+}
+
+/* all media quaries below */
+
+@media (max-width: 1280px) {
+  .reviewLeftCol {
+    padding-bottom: 10px;
+    border-right: 0px;
+    border-bottom: 1px solid #cfcfd0;
+    width: 100%;
+    padding-top: 0px;
+  }
+}
+
+@media (max-width: 960px) {
+  .hinttext2 {
+    line-height: 23px;
+    margin-top: 20px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 960px) {
+  .linkTxt {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 960px) {
+  .subHeadText {
+    line-height: 26px;
+  }
+}
+
+@media (max-width: 960px) {
+  .reviewRightCol {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+}

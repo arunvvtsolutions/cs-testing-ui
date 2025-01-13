@@ -1,0 +1,228 @@
+.mainBox {
+  display: block;
+  margin-top: 20px;
+}
+
+.subMainBox {
+  width: 100%;
+  max-width: 375px;
+  border-radius: 4px;
+  border: 1px solid #dfe1e6;
+  background: #fff;
+  box-shadow: 16px 0px 64px 0px rgba(0, 0, 0, 0.04);
+  margin: 0px 0px 20px auto;
+}
+
+.headingBox {
+  background: rgba(223, 225, 230, 0.2);
+  border-bottom: 1px solid #dfe1e6;
+  padding: 17px;
+}
+
+.heading {
+  color: #202124;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22.4px;
+}
+
+.fullContentBox {
+  padding: 0 20px;
+  overflow-y: auto;
+  max-height: 433px;
+  margin-right: 8px
+}
+
+.fullContentBox::-webkit-scrollbar {
+  width: 2px;
+}
+
+.fullContentBox::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.fullContentBox::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 8px;
+}
+
+.fullContentBox::-webkit-scrollbar-thumb:hover {
+  background: #EEE;
+}
+
+.contentBox {
+  border-bottom: 1px solid #dfe1e6;
+  padding: 10px 0px;
+  margin: 10px 0px;
+  align-items: center;
+}
+
+.courseName {
+  color: #202124;
+  font-family: inherit;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.courseName:hover {
+  color: #0B6049;
+}
+
+.locationBox {
+  display: flex;
+  align-items: center;
+}
+
+.locationName {
+  color: rgba(32, 33, 36, 0.7);
+  font-family: inherit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16.8px;
+  margin-left: 2px;
+}
+
+.buttonBox {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.viewLink {
+  border-radius: 31px;
+  background: #f5f5f7;
+  padding: 4px 17px;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+  color: #202124;
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.viewLink:hover {
+  background: #1452A4;
+  color: #fff;
+}
+
+.viewText:hover {
+  color: #fff;
+}
+
+.iconBox {
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background: #fbfbfb;
+}
+
+.iconBox:hover {
+  background: rgba(26, 115, 232, 0.5);
+}
+
+.icon {
+  margin: auto;
+  width: 18px;
+  height: 18px;
+  color: #1a73e8;
+}
+
+/* All MediaQueries */
+
+@media (max-width: 1200px) {
+  .fullContentBox {
+    padding: 0px;
+    overflow: auto;
+    max-height: auto;
+  }
+
+  .mainBox {
+    justify-content: flex-start;
+  }
+
+  .subMainBox {
+    width: 100%;
+    max-width: 100%;
+    border-radius: none;
+    border: none;
+    box-shadow: none;
+  }
+
+  .heading {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .fullContentBox {
+    margin: 0px 10px;
+    height: auto;
+    display: flex;
+    overflow-x: auto;
+    padding: 20px 0px;
+  }
+
+  .fullContentBox::-webkit-scrollbar {
+    display: none;
+  }
+
+  .contentBox {
+    margin: 0;
+    border-bottom: none;
+    min-width: 348px;
+    border-radius: 8px;
+    background: #fbfbfb;
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 4px 32px #cccccc8c;
+  }
+
+  .collegeName {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 0px;
+  }
+
+  .locationBox {
+    display: none;
+  }
+
+  .locationName {
+    color: #202124;
+    font-size: 16px;
+    line-height: 22.4px;
+    margin-left: 0px;
+  }
+
+  .collegeNameBox {
+    display: flex;
+    align-items: center;
+  }
+
+  .headingBox {
+    border-bottom: none;
+    padding: 17px 0px;
+    background-color: transparent;
+    border: none;
+  }
+}
+
+@media (max-width: 375px) {
+  .contentBox {
+    min-width: 320px;
+  }
+}

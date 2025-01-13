@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "target": "es2017",
     "lib": [
       "dom",
       "dom.iterable",
@@ -7,28 +8,54 @@
     ],
     "allowJs": true,
     "skipLibCheck": true,
-    "strict": false,
+    "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
-    "incremental": true,
     "esModuleInterop": true,
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": "src",
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    // custom config
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "types": [
+      "node",
+      "webpack-env"
+    ],
+    "typeRoots": [
+      "../node_modules/@types",
+      "../@types",
+      "./types"
+    ],
+    "paths": {
+      "ui-component": [
+        "components/ui-component"
+      ],
+      "ui-component/*": [
+        "components/ui-component/*"
+      ]
+    },
     "plugins": [
       {
         "name": "next"
       }
-    ],
-    "strictNullChecks": true
+    ]
   },
+
+
   "include": [
     "next-env.d.ts",
-    ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    ".next/types/**/*.ts"
   ],
   "exclude": [
     "node_modules"

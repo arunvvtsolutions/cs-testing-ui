@@ -1,0 +1,127 @@
+.contactCard {
+    border-radius: 8px;
+    background: #FBFBFB;
+    padding: 22px 26px;
+    box-sizing: border-box;
+    transition: 0.3s;
+    width: 100%;
+    min-height: 226px;
+}
+
+.contactCard:hover {
+    transform: translateY(-8px);
+    box-shadow: 0px 27px 40px #cccccc8a;
+}
+
+.contactIcons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+
+.contactTitles {
+    color: #202124;
+    font-family: inherit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.contactAddressDiscp {
+    color: rgba(32, 33, 36, 0.70);
+    text-align: center;
+    font-family: inherit;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.contactTelePhoneAndMail {
+    color: #1452A4;
+    text-align: center;
+    font-family: inherit;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    display: block;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+
+.contactSocialLinks {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.contactSocialLinks a {
+    margin-right: 10px;
+    text-decoration: none;
+    transition: 0.3s;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    display: block;
+}
+
+.contactSocialLinks a img {
+    object-fit: contain;
+}
+
+.contactSocialLinks a:hover {
+    transform: translateY(-3px);
+}
+
+.contactSocialLinks a:last-child {
+    margin-right: 0px;
+}
+
+.mainSection {
+    margin-bottom: 16px;
+}
+
+@media (max-width: 992px) {
+
+    .contactCard {
+        padding: 16px;
+        border-radius: 8px;
+        min-height: 0;
+    }
+
+    .contactIcons {
+        display: none;
+    }
+
+    .contactTitles {
+        font-size: 14px;
+        line-height: 22px;
+        justify-content: flex-start;
+    }
+
+    .contactAddressDiscp {
+        font-size: 14px;
+        line-height: 22px;
+        text-align: left; 
+    }
+
+    .contactSocialLinks {
+        justify-content: flex-start;
+    }
+
+    .mainSection{
+        margin-bottom: 26px;
+    }
+
+    .contactTelePhoneAndMail {
+        font-size: 14px;
+        text-align: left;
+    }
+
+}

@@ -1,0 +1,21 @@
+// project-imports
+import pages from './pages';
+import other from './other';
+import endPages from './endPages';
+// import samplePage from './sample-page';
+
+// types
+import { NavItemType } from 'types';
+
+// ==============================|| MENU ITEMS ||============================== //
+
+const menuItems: { items: NavItemType[] } = {
+  items: [
+    // samplePage,
+    pages,
+    other,
+    endPages
+  ]
+};
+
+export default menuItems;

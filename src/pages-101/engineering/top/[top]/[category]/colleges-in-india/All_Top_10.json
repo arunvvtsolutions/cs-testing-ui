@@ -1,0 +1,2733 @@
+[
+  {
+    "collegeData": [
+      {
+        "id": 1,
+        "name": "Indian Institute of Technology Madras",
+        "logo": "indian-institute-of-1661752464.webp",
+        "collegeUrl": "indian-institute-of-technology-madras",
+        "shortUrl": "iitm-chennai",
+        "shortName": "IIT Madras",
+        "nirfRank": 1,
+        "estdYear": 1959,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 28,
+        "state": "Tamil Nadu",
+        "cityId": 284,
+        "city": "Chennai",
+        "courses": [10, 41, 6, 126, 9, 1733, 1608, 179, 570]
+      },
+      {
+        "id": 2,
+        "name": "Indian Institute of Technology Delhi",
+        "logo": "indian-institute-of-1661752401.webp",
+        "collegeUrl": "indian-institute-of-technology-delhi",
+        "shortUrl": "iitd-delhi",
+        "shortName": "IIT Delhi",
+        "nirfRank": 2,
+        "estdYear": 1961,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 8,
+        "state": "Delhi",
+        "cityId": 79,
+        "city": "Delhi",
+        "courses": [
+          9, 6, 126, 41, 570, 10, 244, 343, 1090, 1643, 1608, 1644, 1645, 101
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Indian Institute of Technology Bombay",
+        "logo": "indian-institute-of-1661752524.webp",
+        "collegeUrl": "indian-institute-of-technology-bombay",
+        "shortUrl": "iitb-bombay",
+        "shortName": "IIT Bombay",
+        "nirfRank": 3,
+        "estdYear": 1958,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 18,
+        "state": "Maharashtra",
+        "cityId": 238,
+        "city": "Mumbai Suburban",
+        "courses": [
+          179, 126, 6, 1614, 146, 1615, 197, 38, 1616, 170, 9, 41, 570, 10, 1617
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Indian Institute of Technology Kanpur",
+        "logo": "indian-institute-of-1661752589.webp",
+        "collegeUrl": "indian-institute-of-technology-kanpur",
+        "shortUrl": "iitk-kanpur",
+        "shortName": "IIT Kanpur",
+        "nirfRank": 4,
+        "estdYear": 1959,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 31,
+        "state": "Uttar Pradesh",
+        "cityId": 368,
+        "city": "Kanpur",
+        "courses": [41, 10, 6, 9, 126, 1607, 179]
+      },
+      {
+        "id": 4,
+        "name": "Indian Institute of Technology Kharagpur",
+        "logo": "indian-institute-of-1661752696.webp",
+        "collegeUrl": "indian-institute-of-technology-kharagpur",
+        "shortUrl": "iit-kharagpur",
+        "shortName": "IIT Kharagpur",
+        "nirfRank": 5,
+        "estdYear": 1950,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 33,
+        "state": "West Bengal",
+        "cityId": 387,
+        "city": "Kharagpur",
+        "courses": [
+          179, 1670, 1051, 126, 6, 9, 41, 1671, 43, 60, 10, 1608, 132, 1672,
+          1673
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Indian Institute of Technology Roorkee",
+        "logo": "indian-institute-of-1666680868.webp",
+        "collegeUrl": "indian-institute-of-technology-roorkee",
+        "shortUrl": "iitr-roorkee",
+        "shortName": "IIT Roorkee",
+        "nirfRank": 6,
+        "estdYear": 1847,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 32,
+        "state": "Uttarakhand",
+        "cityId": 376,
+        "city": "Roorkee",
+        "courses": [126, 6, 9, 41, 8, 570, 10, 1608, 244, 1755, 1756, 1757]
+      },
+      {
+        "id": 777,
+        "name": "Indian Institute of Technology Guwahati",
+        "logo": "indian-institute-of-1661752842.webp",
+        "collegeUrl": "indian-institute-of-technology-guwahati",
+        "shortUrl": "iit-guwahati",
+        "shortName": "IIT Guwahati",
+        "nirfRank": 7,
+        "estdYear": 1994,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 4,
+        "state": "Assam",
+        "cityId": 67,
+        "city": "Guwahati",
+        "courses": [10, 6, 9, 8, 126, 1755, 98, 706, 570, 688, 383, 1811, 55]
+      },
+      {
+        "id": 8,
+        "name": "Indian Institute of Technology Hyderabad",
+        "logo": "indian-institute-of-1661752993.webp",
+        "collegeUrl": "indian-institute-of-technology-hyderabad",
+        "shortUrl": "iith-hyderabad",
+        "shortName": "IIT Hyderabad",
+        "nirfRank": 9,
+        "estdYear": 2008,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 29,
+        "state": "Telangana",
+        "cityId": 345,
+        "city": "Hyderabad",
+        "courses": [
+          126, 6, 1708, 1709, 9, 41, 570, 1710, 706, 10, 1711, 54, 40, 1712
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+        "logo": "indian-institute-of-1661753512.webp",
+        "collegeUrl": "indian-institute-of-technology-banaras-hindu-university-varanasi",
+        "shortUrl": "iitbhuv-varanasi",
+        "shortName": "IITBHU Varanasi",
+        "nirfRank": 13,
+        "estdYear": 2012,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 31,
+        "state": "Uttar Pradesh",
+        "cityId": 367,
+        "city": "Varanasi",
+        "courses": [1798, 126, 6, 9, 41, 7, 10, 233, 132]
+      },
+      {
+        "id": 15,
+        "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+        "logo": "indian-institute-of-1661753622.webp",
+        "collegeUrl": "indian-institute-of-technology-indian-school-of-mines-dhanbad",
+        "shortUrl": "iitismd-dhanbad",
+        "shortName": "IITISM Dhanbad",
+        "nirfRank": 14,
+        "estdYear": 1926,
+        "typeId": 1,
+        "type": "Engineering",
+        "ownershipId": 1,
+        "ownership": "Government",
+        "categoryId": 1,
+        "category": "IIT",
+        "stateId": 14,
+        "state": "Jharkhand",
+        "cityId": 126,
+        "city": "Dhanbad",
+        "courses": [9, 41, 570, 10, 8, 132, 151, 6, 126, 112, 1782, 1783]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 Iit Engineering Colleges In India",
+      "url": "/top/10/iit/colleges-in-india",
+      "description": "Top iitS In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top iit colleges in India, best iit colleges in India, top iit courses in India, list of top iit colleges in India, top colleges in India for iit, top 10 iit colleges in India, best 10 iit colleges in India, Top NITs , IIT, IIIT, GFTI, Government iit colleges, private iit colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 41,
+        "courseName": "ELECTRICAL ENGINEERING",
+        "longUrl": "electrical-engineering",
+        "shortUrl": "electrical-engineering"
+      },
+      {
+        "courseId": 6,
+        "courseName": "CIVIL ENGINEERING",
+        "longUrl": "civil-engineering",
+        "shortUrl": "civil-engineering"
+      },
+      {
+        "courseId": 126,
+        "courseName": "CHEMICAL ENGINEERING",
+        "longUrl": "chemical-engineering",
+        "shortUrl": "chemical-engineering"
+      },
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 1733,
+        "courseName": "Naval Architecture and Ocean Engineering",
+        "longUrl": "naval-architecture-and-ocean-engineering",
+        "shortUrl": "naval-architecture-and-ocean-engineering"
+      },
+      {
+        "courseId": 1608,
+        "courseName": "Metallurgical and Materials Engineering",
+        "longUrl": "metallurgical-and-materials-engineering",
+        "shortUrl": "metallurgical-and-materials-engineering"
+      },
+      {
+        "courseId": 179,
+        "courseName": "AEROSPACE ENGINEERING",
+        "longUrl": "aerospace-engineering",
+        "shortUrl": "aerospace-engineering"
+      },
+      {
+        "courseId": 570,
+        "courseName": "ENGINEERING PHYSICS",
+        "longUrl": "engineering-physics",
+        "shortUrl": "engineering-physics"
+      },
+      {
+        "courseId": 343,
+        "courseName": "TEXTILE TECHNOLOGY",
+        "longUrl": "textile-technology",
+        "shortUrl": "textile-technology"
+      },
+      {
+        "courseId": 1090,
+        "courseName": "BIOCHEMICAL ENGINEERING AND BIOTECHNOLOGY",
+        "longUrl": "biochemical-engineering-and-biotechnology",
+        "shortUrl": "biochemical-engineering-and-biotechnology"
+      },
+      {
+        "courseId": 1643,
+        "courseName": "Power and Automation",
+        "longUrl": "power-and-automation",
+        "shortUrl": "power-and-automation"
+      },
+      {
+        "courseId": 1644,
+        "courseName": "Mathematics & Computing",
+        "longUrl": "mathematics-computing",
+        "shortUrl": "mathematics-computing"
+      },
+      {
+        "courseId": 1645,
+        "courseName": "Engineering and Computational Mechanics",
+        "longUrl": "engineering-and-computational-mechanics",
+        "shortUrl": "engineering-and-computational-mechanics"
+      },
+      {
+        "courseId": 101,
+        "courseName": "ENERGY ENGINEERING",
+        "longUrl": "energy-engineering",
+        "shortUrl": "energy-engineering"
+      },
+      {
+        "courseId": 38,
+        "courseName": "STRUCTURAL ENGINEERING",
+        "longUrl": "structural-engineering",
+        "shortUrl": "structural-engineering"
+      },
+      {
+        "courseId": 1616,
+        "courseName": "Ocean Engineering",
+        "longUrl": "ocean-engineering",
+        "shortUrl": "ocean-engineering"
+      },
+      {
+        "courseId": 170,
+        "courseName": "CONSTRUCTION TECHNOLOGY AND MANAGEMENT",
+        "longUrl": "construction-technology-and-management",
+        "shortUrl": "construction-technology-and-management"
+      },
+      {
+        "courseId": 1617,
+        "courseName": "Metallurgical Engineering and Materials Science",
+        "longUrl": "metallurgical-engineering-and-materials-science",
+        "shortUrl": "metallurgical-engineering-and-materials-science"
+      },
+      {
+        "courseId": 1614,
+        "courseName": "Transportation Systems Engineering",
+        "longUrl": "transportation-systems-engineering",
+        "shortUrl": "transportation-systems-engineering"
+      },
+      {
+        "courseId": 146,
+        "courseName": "GEOTECHNICAL ENGINEERING",
+        "longUrl": "geotechnical-engineering",
+        "shortUrl": "geotechnical-engineering"
+      },
+      {
+        "courseId": 1615,
+        "courseName": "Environmental and Water Resources Engineering",
+        "longUrl": "environmental-and-water-resources-engineering",
+        "shortUrl": "environmental-and-water-resources-engineering"
+      },
+      {
+        "courseId": 197,
+        "courseName": "REMOTE SENSING",
+        "longUrl": "remote-sensing",
+        "shortUrl": "remote-sensing"
+      },
+      {
+        "courseId": 1607,
+        "courseName": "Materials Science and Engineering",
+        "longUrl": "materials-science-and-engineering",
+        "shortUrl": "materials-science-and-engineering"
+      },
+      {
+        "courseId": 1670,
+        "courseName": "Agricultural and Food Engineering",
+        "longUrl": "agricultural-and-food-engineering",
+        "shortUrl": "agricultural-and-food-engineering"
+      },
+      {
+        "courseId": 1051,
+        "courseName": "BIOTECHNOLOGY AND BIOCHEMICAL ENGINEERING",
+        "longUrl": "biotechnology-and-biochemical-engineering",
+        "shortUrl": "biotechnology-and-biochemical-engineering"
+      },
+      {
+        "courseId": 1671,
+        "courseName": "Electronics and Electrical Communication Engineering",
+        "longUrl": "electronics-and-electrical-communication-engineering",
+        "shortUrl": "electronics-and-electrical-communication-engineering"
+      },
+      {
+        "courseId": 43,
+        "courseName": "APPLIED ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "longUrl": "applied-electronics-and-instrumentation-engineering",
+        "shortUrl": "applied-electronics-and-instrumentation-engineering"
+      },
+      {
+        "courseId": 60,
+        "courseName": "MANUFACTURING SCIENCE AND ENGINEERING",
+        "longUrl": "manufacturing-science-and-engineering",
+        "shortUrl": "manufacturing-science-and-engineering"
+      },
+      {
+        "courseId": 1672,
+        "courseName": "Ocean Engineering and Naval Architecture",
+        "longUrl": "ocean-engineering-and-naval-architecture",
+        "shortUrl": "ocean-engineering-and-naval-architecture"
+      },
+      {
+        "courseId": 1673,
+        "courseName": "Industrial and Systems Engineering",
+        "longUrl": "industrial-and-systems-engineering",
+        "shortUrl": "industrial-and-systems-engineering"
+      },
+      {
+        "courseId": 244,
+        "courseName": "PRODUCTION AND INDUSTRIAL ENGINEERING",
+        "longUrl": "production-and-industrial-engineering",
+        "shortUrl": "production-and-industrial-engineering"
+      },
+      {
+        "courseId": 1756,
+        "courseName": "Geological Technology",
+        "longUrl": "geological-technology",
+        "shortUrl": "geological-technology"
+      },
+      {
+        "courseId": 1757,
+        "courseName": "Geophysical Technology",
+        "longUrl": "geophysical-technology",
+        "shortUrl": "geophysical-technology"
+      },
+      {
+        "courseId": 55,
+        "courseName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "longUrl": "artificial-intelligence-and-data-science",
+        "shortUrl": "artificial-intelligence-and-data-science"
+      },
+      {
+        "courseId": 1755,
+        "courseName": "Biosciences and Bioengineering",
+        "longUrl": "biosciences-and-bioengineering",
+        "shortUrl": "biosciences-and-bioengineering"
+      },
+      {
+        "courseId": 98,
+        "courseName": "PHARMACEUTICAL BIOTECHNOLOGY",
+        "longUrl": "pharmaceutical-biotechnology",
+        "shortUrl": "pharmaceutical-biotechnology"
+      },
+      {
+        "courseId": 706,
+        "courseName": "MATHEMATICS AND COMPUTING",
+        "longUrl": "mathematics-and-computing",
+        "shortUrl": "mathematics-and-computing"
+      },
+      {
+        "courseId": 688,
+        "courseName": "CHEMICAL SCIENCE AND TECHNOLOGY",
+        "longUrl": "chemical-science-and-technology",
+        "shortUrl": "chemical-science-and-technology"
+      },
+      {
+        "courseId": 383,
+        "courseName": "ELECTRONICS AND ELECTRICAL ENGINEERING",
+        "longUrl": "electronics-and-electrical-engineering",
+        "shortUrl": "electronics-and-electrical-engineering"
+      },
+      {
+        "courseId": 1811,
+        "courseName": "Data Science and Artificial Intelligence",
+        "longUrl": "data-science-and-artificial-intelligence",
+        "shortUrl": "data-science-and-artificial-intelligence"
+      },
+      {
+        "courseId": 1709,
+        "courseName": "Industrial Chemistry",
+        "longUrl": "industrial-chemistry",
+        "shortUrl": "industrial-chemistry"
+      },
+      {
+        "courseId": 1710,
+        "courseName": "Engineering Science",
+        "longUrl": "engineering-science",
+        "shortUrl": "engineering-science"
+      },
+      {
+        "courseId": 1711,
+        "courseName": "Materials Science and Metallurgical Engineering",
+        "longUrl": "materials-science-and-metallurgical-engineering",
+        "shortUrl": "materials-science-and-metallurgical-engineering"
+      },
+      {
+        "courseId": 54,
+        "courseName": "ARTIFICIAL INTELLIGENCE",
+        "longUrl": "artificial-intelligence",
+        "shortUrl": "artificial-intelligence"
+      },
+      {
+        "courseId": 40,
+        "courseName": "BIOMEDICAL ENGINEERING",
+        "longUrl": "biomedical-engineering",
+        "shortUrl": "biomedical-engineering"
+      },
+      {
+        "courseId": 1712,
+        "courseName": "Biotechnology and Bioinformatics",
+        "longUrl": "biotechnology-and-bioinformatics",
+        "shortUrl": "biotechnology-and-bioinformatics"
+      },
+      {
+        "courseId": 1708,
+        "courseName": "Computational Engineering",
+        "longUrl": "computational-engineering",
+        "shortUrl": "computational-engineering"
+      },
+      {
+        "courseId": 1798,
+        "courseName": "Ceramic Engineering",
+        "longUrl": "ceramic-engineering",
+        "shortUrl": "ceramic-engineering"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 233,
+        "courseName": "METALLURGICAL ENGINEERING",
+        "longUrl": "metallurgical-engineering",
+        "shortUrl": "metallurgical-engineering"
+      },
+      {
+        "courseId": 1799,
+        "courseName": "Pharmaceutical Engineering and Technology",
+        "longUrl": "pharmaceutical-engineering-and-technology",
+        "shortUrl": "pharmaceutical-engineering-and-technology"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 132,
+        "courseName": "MINING ENGINEERING",
+        "longUrl": "minings-engineering",
+        "shortUrl": "minings-engineering"
+      },
+      {
+        "courseId": 151,
+        "courseName": "PETROLEUM ENGINEERING",
+        "longUrl": "petroleum-engineering",
+        "shortUrl": "petroleum-engineering"
+      },
+      {
+        "courseId": 112,
+        "courseName": "ENVIRONMENTAL ENGINEERING",
+        "longUrl": "environmental-engineering",
+        "shortUrl": "environmental-engineering"
+      },
+      {
+        "courseId": 1782,
+        "courseName": "Mining Machinery Engineering",
+        "longUrl": "mining-machinery-engineering",
+        "shortUrl": "mining-machinery-engineering"
+      },
+      {
+        "courseId": 1783,
+        "courseName": "Mineral and Metallurgical Engineering",
+        "longUrl": "mineral-and-metallurgical-engineering",
+        "shortUrl": "mineral-and-metallurgical-engineering"
+      }
+    ]
+  },
+  {
+    "collegeData": [
+      {
+        "id": 10,
+        "name": "National Institute of Technology Tiruchirappalli",
+        "logo": "national-institute-of-1661752942.webp",
+        "collegeUrl": "national-institute-of-technology-tiruchirappalli",
+        "shortUrl": "nit-tiruchirappalli",
+        "shortName": "NIT Trichy",
+        "nirfRank": 8,
+        "estdYear": 1964,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Tamil Nadu",
+        "city": "Tiruchirappalli",
+        "courses": [126, 6, 9, 8, 10, 1608, 7, 191, 42, 115]
+      },
+      {
+        "id": 21,
+        "name": "National Institute of Technology Karnataka",
+        "logo": "national-institute-of-1661753101.webp",
+        "collegeUrl": "national-institute-of-technology-karnataka",
+        "shortUrl": "nitk-surathkal",
+        "shortName": "NIT Karnataka",
+        "nirfRank": 10,
+        "estdYear": 1960,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Karnataka",
+        "city": "Surathkal",
+        "courses": [126, 6, 9, 8, 10, 1608, 132, 7, 32, 54]
+      },
+      {
+        "id": 16,
+        "name": "National Institute of Technology Rourkela",
+        "logo": "national-institute-of-1661753708.webp",
+        "collegeUrl": "national-institute-of-technology-rourkela",
+        "shortUrl": "nitr-rourkela",
+        "shortName": "NIT Rourkela",
+        "nirfRank": 15,
+        "estdYear": 1961,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Odisha",
+        "city": "Rourkela",
+        "courses": [
+          270, 9, 8, 10, 41, 43, 1798, 126, 6, 1608, 132, 1224, 1679, 1903, 115
+        ]
+      },
+      {
+        "id": 26,
+        "name": "National Institute of Technology Warangal",
+        "logo": "national-institute-of-1661754190.webp",
+        "collegeUrl": "national-institute-of-technology-warangal",
+        "shortUrl": "nitw-hanamkonda",
+        "shortName": "NIT Warangal",
+        "nirfRank": 21,
+        "estdYear": 1959,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Telangana",
+        "city": "Hanamkonda",
+        "courses": [270, 126, 6, 9, 8, 10, 1608, 7]
+      },
+      {
+        "id": 28,
+        "name": "National Institute of Technology Calicut",
+        "logo": "national-institute-of-1661754820.webp",
+        "collegeUrl": "national-institute-of-technology-calicut",
+        "shortUrl": "nitc-kozhikode",
+        "shortName": "NIT Calicut",
+        "nirfRank": 31,
+        "estdYear": 1961,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Kerala",
+        "city": "Kozhikode",
+        "courses": [270, 126, 6, 9, 8, 570, 1607, 10, 7, 191, 115]
+      },
+      {
+        "id": 31,
+        "name": "Visvesvaraya National Institute of Technology",
+        "logo": "visvesvaraya-national-institute-1661754862.webp",
+        "collegeUrl": "visvesvaraya-national-institute-of-technology",
+        "shortUrl": "vnit-nagpur",
+        "shortName": "VNIT Nagpur",
+        "nirfRank": 32,
+        "estdYear": 1960,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Maharashtra",
+        "city": "Nagpur",
+        "courses": [126, 6, 9, 8, 10, 1608, 132, 7, 115]
+      },
+      {
+        "id": 46,
+        "name": "National Institute of Technology Durgapur",
+        "logo": "national-institute-of-1661755546.webp",
+        "collegeUrl": "national-institute-of-technology-durgapur",
+        "shortUrl": "nitd-durgapur",
+        "shortName": "NIT Durgapur",
+        "nirfRank": 34,
+        "estdYear": 1960,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "West Bengal",
+        "city": "Durgapur",
+        "courses": [270, 126, 6, 9, 41, 8, 10, 1608, 1986, 1987, 166, 23]
+      },
+      {
+        "id": 51,
+        "name": "National Institute of Technology Silchar",
+        "logo": "national-institute-of-1661755693.webp",
+        "collegeUrl": "national-institute-of-technology-silchar",
+        "shortUrl": "nits-silchar",
+        "shortName": "NIT Silchar",
+        "nirfRank": 38,
+        "estdYear": 1967,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Assam",
+        "city": "Silchar",
+        "courses": [6, 9, 41, 8, 10, 43]
+      },
+      {
+        "id": 19,
+        "name": "Indian Institute of Engineering Science and Technology",
+        "logo": "IIEST_Shibpur_Logo.webp",
+        "collegeUrl": "indian-institute-of-engineering-science-and-technology",
+        "shortUrl": "iiest-shibpur",
+        "shortName": "IIEST Shibpur",
+        "nirfRank": 40,
+        "estdYear": 1856,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "West Bengal",
+        "city": "Shibpur",
+        "courses": [2100, 6, 148, 41, 1899, 32, 10, 1880, 132]
+      },
+      {
+        "id": 758,
+        "name": "Malaviya National Institute of Technology",
+        "logo": "malaviya-national-institute-1661756151.webp",
+        "collegeUrl": "malaviya-national-institute-of-technology",
+        "shortUrl": "mnite-jaipur",
+        "shortName": "MNITE Jaipur",
+        "nirfRank": 46,
+        "estdYear": 1963,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIT",
+        "state": "Rajasthan",
+        "city": "Jaipur",
+        "courses": [126, 6, 41, 9, 8, 10, 1608]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 Nit Engineering Colleges In India",
+      "url": "/top/10/nit/colleges-in-india",
+      "description": "Top NITS In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top nit colleges in India, best nit colleges in India, top nit courses in India, list of top nit colleges in India, top colleges in India for nit, top 10 nit colleges in India, best 10 nit colleges in India, Top NITs, IIT, IIIT, GFTI, Government nit colleges, private nit colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 126,
+        "courseName": "CHEMICAL ENGINEERING",
+        "longUrl": "chemical-engineering",
+        "shortUrl": "chemical-engineering"
+      },
+      {
+        "courseId": 6,
+        "courseName": "CIVIL ENGINEERING",
+        "longUrl": "civil-engineering",
+        "shortUrl": "civil-engineering"
+      },
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 1608,
+        "courseName": "Metallurgical and Materials Engineering",
+        "longUrl": "metallurgical-and-materials-engineering",
+        "shortUrl": "metallurgical-and-materials-engineering"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 191,
+        "courseName": "PRODUCTION ENGINEERING",
+        "longUrl": "production-engineering",
+        "shortUrl": "production-engineering"
+      },
+      {
+        "courseId": 42,
+        "courseName": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "longUrl": "instrumentation-and-control-engineering",
+        "shortUrl": "instrumentation-and-control-engineering"
+      },
+      {
+        "courseId": 115,
+        "courseName": "ARCHITECTURE",
+        "longUrl": "architecture",
+        "shortUrl": "architecture"
+      },
+      {
+        "courseId": 132,
+        "courseName": "MINING ENGINEERING",
+        "longUrl": "minings-engineering",
+        "shortUrl": "minings-engineering"
+      },
+      {
+        "courseId": 32,
+        "courseName": "INFORMATION TECHNOLOGY",
+        "longUrl": "information-technology",
+        "shortUrl": "information-technology"
+      },
+      {
+        "courseId": 54,
+        "courseName": "ARTIFICIAL INTELLIGENCE",
+        "longUrl": "artificial-intelligence",
+        "shortUrl": "artificial-intelligence"
+      },
+      {
+        "courseId": 43,
+        "courseName": "APPLIED ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "longUrl": "applied-electronics-and-instrumentation-engineering",
+        "shortUrl": "applied-electronics-and-instrumentation-engineering"
+      },
+      {
+        "courseId": 1798,
+        "courseName": "Ceramic Engineering",
+        "longUrl": "ceramic-engineering",
+        "shortUrl": "ceramic-engineering"
+      },
+      {
+        "courseId": 1224,
+        "courseName": "INDUSTRIAL DESIGN",
+        "longUrl": "industrial-design",
+        "shortUrl": "industrial-design"
+      },
+      {
+        "courseId": 1679,
+        "courseName": "Food Process Engineering",
+        "longUrl": "food-process-engineering",
+        "shortUrl": "food-process-engineering"
+      },
+      {
+        "courseId": 1903,
+        "courseName": "Bio Medical Engineering",
+        "longUrl": "bio-medical-engineering",
+        "shortUrl": "bio-medical-engineering"
+      },
+      {
+        "courseId": 570,
+        "courseName": "ENGINEERING PHYSICS",
+        "longUrl": "engineering-physics",
+        "shortUrl": "engineering-physics"
+      },
+      {
+        "courseId": 1607,
+        "courseName": "Materials Science and Engineering",
+        "longUrl": "materials-science-and-engineering",
+        "shortUrl": "materials-science-and-engineering"
+      },
+      {
+        "courseId": 270,
+        "courseName": "BIO TECHNOLOGY",
+        "longUrl": "bio-technology",
+        "shortUrl": "bio-technology"
+      },
+      {
+        "courseId": 41,
+        "courseName": "ELECTRICAL ENGINEERING",
+        "longUrl": "electrical-engineering",
+        "shortUrl": "electrical-engineering"
+      },
+      {
+        "courseId": 1986,
+        "courseName": "Earth and Environmental Studies",
+        "longUrl": "earth-and-environmental-studies",
+        "shortUrl": "earth-and-environmental-studies"
+      },
+      {
+        "courseId": 1987,
+        "courseName": "Humanities and Social Sciences",
+        "longUrl": "humanities-and-social-sciences",
+        "shortUrl": "humanities-and-social-sciences"
+      },
+      {
+        "courseId": 166,
+        "courseName": "INDUSTRIAL MATHEMATICS",
+        "longUrl": "industrial-mathematics",
+        "shortUrl": "industrial-mathematics"
+      },
+      {
+        "courseId": 23,
+        "courseName": "MANAGEMENT STUDIES",
+        "longUrl": "management-studies",
+        "shortUrl": "management-studies"
+      },
+      {
+        "courseId": 2100,
+        "courseName": "Aerospace engineering and Applied mechanics",
+        "longUrl": "aerospace-engineering-and-applied-mechanics",
+        "shortUrl": "aerospace-engineering-and-applied-mechanics"
+      },
+      {
+        "courseId": 148,
+        "courseName": "COMPUTER SCIENCE AND TECHNOLOGY",
+        "longUrl": "computer-science-and-technology",
+        "shortUrl": "computer-science-and-technology"
+      },
+      {
+        "courseId": 1899,
+        "courseName": "Electronics and Telecommunication Engineering",
+        "longUrl": "electronics-and-telecommunication-engineering",
+        "shortUrl": "electronics-and-telecommunication-engineering"
+      },
+      {
+        "courseId": 1880,
+        "courseName": "Metallurgy and Materials Engineering",
+        "longUrl": "metallurgy-and-materials-engineering",
+        "shortUrl": "metallurgy-and-materials-engineering"
+      }
+    ]
+  },
+  {
+    "collegeData": [
+      {
+        "id": 39,
+        "name": "International Institute of Information Technology Hyderabad",
+        "logo": "iiit-hyderabad.webp",
+        "collegeUrl": "international-institute-of-information-technology-hyderabad",
+        "shortUrl": "iiith-hyderabad",
+        "shortName": "IIIT Hyderabad",
+        "nirfRank": 62,
+        "estdYear": 1998,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIIT",
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "courses": [55, 9, 8, 34, 33, 32, 7]
+      },
+      {
+        "id": 81,
+        "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+        "logo": "atal-bihari-vajpayee-1661758127.webp",
+        "collegeUrl": "atal-bihari-vajpayee-indian-institute-of-information-technology-and-management",
+        "shortUrl": "iiitm-gwalior",
+        "shortName": "IIITM Madhya Pradesh",
+        "nirfRank": 78,
+        "estdYear": 1997,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIIT",
+        "state": "Madhya Pradesh",
+        "city": "Gwalior",
+        "courses": [9]
+      },
+      {
+        "id": 65,
+        "name": "International Institute of Information Technology Bangalore",
+        "logo": "international-institute-of-1661758431.webp",
+        "collegeUrl": "international-institute-of-information-technology-bangalore",
+        "shortUrl": "iiitb-bangalore",
+        "shortName": "IIIT Bangalore",
+        "nirfRank": 81,
+        "estdYear": 1999,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "IIIT",
+        "state": "Karnataka",
+        "city": "Bengaluru",
+        "courses": [55, 9, 8, 34, 33, 32, 7]
+      },
+      {
+        "id": 75,
+        "name": "Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur",
+        "logo": "pandit-dwarka-prasad-1661758494.webp",
+        "collegeUrl": "pandit-dwarka-prasad-mishra-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-jabalpur",
+        "shortUrl": "iiitdmj-jabalpur",
+        "shortName": "IIITDM Jabalpur",
+        "nirfRank": 82,
+        "estdYear": 2005,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "Madhya Pradesh",
+        "city": "Jabalpur",
+        "courses": [9, 8, 10, 806]
+      },
+      {
+        "id": 82,
+        "name": "Indian Institute of Information Technology Allahabad",
+        "logo": "indian-institute-of-1661766203.webp",
+        "collegeUrl": "indian-institute-of-information-technology-allahabad",
+        "shortUrl": "iiita-allahabad",
+        "shortName": "IIIT Allahabad",
+        "nirfRank": 93,
+        "estdYear": 1999,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "Uttar Pradesh",
+        "city": "Allahabad",
+        "courses": [32, 8, 1927]
+      },
+      {
+        "id": 272,
+        "name": "Indian Institute of Information Technology Guwahati",
+        "logo": "indian-institute-of-1661767511.webp",
+        "collegeUrl": "indian-institute-of-information-technology-guwahati",
+        "shortUrl": "iiitg-guwahati",
+        "shortName": "IIITG Guwahati",
+        "nirfRank": 112,
+        "estdYear": 2013,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "Assam",
+        "city": "Guwahati",
+        "courses": [1612, 8]
+      },
+      {
+        "id": 197,
+        "name": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+        "logo": "Indian-Institute-Of-Information-Technology-Design-And-Manufacturing-Kancheepuram.webp",
+        "collegeUrl": "indian-institute-of-information-technology-design-and-manufacturing-kancheepuram",
+        "shortUrl": "iiitdmk-kancheepuram",
+        "shortName": "IIITDM Kancheepuram",
+        "nirfRank": 184,
+        "estdYear": 2007,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "courses": [9, 1933, 134, 1934, 447, 54, 8, 10, 806]
+      },
+      {
+        "id": 796,
+        "name": "Indian Institute of Information Technology Kalyani",
+        "logo": "kalyani.webp",
+        "collegeUrl": "indian-institute-of-information-technology-kalyani",
+        "shortUrl": "iiit-kalyani",
+        "shortName": "IIIT Kalyani",
+        "nirfRank": 0,
+        "estdYear": 2014,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "West Bengal",
+        "city": "Kalyani",
+        "courses": [9, 8]
+      },
+      {
+        "id": 804,
+        "name": "Indian Institute of Information Technology Dharwad",
+        "logo": "Indian_Institute_of_Information_Technology_Dharwad_Logo.webp",
+        "collegeUrl": "indian-institute-of-information-technology-dharwad",
+        "shortUrl": "iiit-dharwad",
+        "shortName": "IIIT Dharwad",
+        "nirfRank": 0,
+        "estdYear": 2015,
+        "type": "Engineering",
+        "ownership": null,
+        "category": "IIIT",
+        "state": "Karnataka",
+        "city": "Dharwad",
+        "courses": [9, 8, 1811]
+      },
+      {
+        "id": 805,
+        "name": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+        "logo": "iiitm-kurnool.png",
+        "collegeUrl": "indian-institute-of-information-technology-design-and-manufacturing-kurnool",
+        "shortUrl": "iiitdm-kurnool",
+        "shortName": "IIITDM Kurnool",
+        "nirfRank": 0,
+        "estdYear": 2015,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "IIIT",
+        "state": "Andhra Pradesh",
+        "city": "Kurnool",
+        "courses": [34, 1940]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 IIIT Engineering Colleges In India",
+      "url": "/top/10/iiit/colleges-in-india",
+      "description": "Top IIITs In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top iiit colleges in India, best iiit colleges in India, top iiit courses in India, list of top iiit colleges in India, top colleges in India for iiit, top 10 iiit colleges in India, best 10 iiit colleges in India, Top IIITs, IIT, IIIT, GFTI, Government iiit colleges, private iiit colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 55,
+        "courseName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+        "longUrl": "artificial-intelligence-and-data-science",
+        "shortUrl": "artificial-intelligence-and-data-science"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 34,
+        "courseName": "COMPUTER ENGINEERING",
+        "longUrl": "computer-engineering",
+        "shortUrl": "computer-engineering"
+      },
+      {
+        "courseId": 33,
+        "courseName": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING",
+        "longUrl": "electronics-and-telecommunications-engineering",
+        "shortUrl": "electronics-and-telecommunications-engineering"
+      },
+      {
+        "courseId": 32,
+        "courseName": "INFORMATION TECHNOLOGY",
+        "longUrl": "information-technology",
+        "shortUrl": "information-technology"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 806,
+        "courseName": "MECHANICAL AND SMART MANUFACTURING",
+        "longUrl": "mechanical-and-smart-manufacturing",
+        "shortUrl": "mechanical-and-smart-manufacturing"
+      },
+      {
+        "courseId": 1927,
+        "courseName": "Information Technology Business Informatics",
+        "longUrl": "information-technology-business-informatics",
+        "shortUrl": "information-technology-business-informatics"
+      },
+      {
+        "courseId": 1612,
+        "courseName": "Computer Science Engineering",
+        "longUrl": "computer-sciences-engineering",
+        "shortUrl": "computer-sciences-engineering"
+      },
+      {
+        "courseId": 1933,
+        "courseName": "Communication Systems Design",
+        "longUrl": "communication-systems-design",
+        "shortUrl": "communication-systems-design"
+      },
+      {
+        "courseId": 134,
+        "courseName": "EMBEDDED SYSTEM AND VLSI DESIGN",
+        "longUrl": "embedded-system-and-vlsi-design",
+        "shortUrl": "embedded-system-and-vlsi-design"
+      },
+      {
+        "courseId": 1934,
+        "courseName": "Advanced Manufacturing",
+        "longUrl": "advanced-manufacturing",
+        "shortUrl": "advanced-manufacturing"
+      },
+      {
+        "courseId": 447,
+        "courseName": "PRODUCT DESIGN",
+        "longUrl": "product-design",
+        "shortUrl": "product-design"
+      },
+      {
+        "courseId": 54,
+        "courseName": "ARTIFICIAL INTELLIGENCE",
+        "longUrl": "artificial-intelligence",
+        "shortUrl": "artificial-intelligence"
+      },
+      {
+        "courseId": 1811,
+        "courseName": "Data Science and Artificial Intelligence",
+        "longUrl": "data-science-and-artificial-intelligence",
+        "shortUrl": "data-science-and-artificial-intelligence"
+      },
+      {
+        "courseId": 1940,
+        "courseName": "Mechanical Engineering with Specialization in Design and Manufacturing",
+        "longUrl": "mechanical-engineering-with-specialization-in-design-and-manufacturing",
+        "shortUrl": "mechanical-engineering-with-specialization-in-design-and-manufacturing"
+      }
+    ]
+  },
+  {
+    "collegeData": [
+      {
+        "id": 12,
+        "name": "Institute of Chemical Technology",
+        "logo": "institute-of-chemical-1661754014.webp",
+        "collegeUrl": "institute-of-chemical-technology",
+        "shortUrl": "ict-mumbai",
+        "shortName": "ICT Mumbai",
+        "nirfRank": 18,
+        "estdYear": 1933,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "courses": [126, 996, 997, 211, 994, 25, 442, 672, 11, 708, 41, 195, 10]
+      },
+      {
+        "id": 33,
+        "name": "Birla Institute of Technology Ranchi",
+        "logo": "birla-institute-of-1661756535.webp",
+        "collegeUrl": "birla-institute-of-technology-ranchi",
+        "shortUrl": "bitr-ranchi",
+        "shortName": "BITS Ranchi",
+        "nirfRank": 53,
+        "estdYear": 1955,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "GFTI",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "courses": [115, 120, 126, 6, 9, 7, 8, 32, 10, 244, 62, 11]
+      },
+      {
+        "id": 835,
+        "name": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
+        "logo": "National-Institute-Of-Food-Technology-Entrepreneurship-And-Management-Thanjavur.webp",
+        "collegeUrl": "national-institute-of-food-technology-entrepreneurship-and-management-thanjavur",
+        "shortUrl": "niftem-thanjavur",
+        "shortName": "NIFTEM Thanjavur",
+        "nirfRank": 86,
+        "estdYear": 1984,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Tamil Nadu",
+        "city": "Thanjavur",
+        "courses": [211]
+      },
+      {
+        "id": 760,
+        "name": "Punjab Engineering College (Deemed To Be University)",
+        "logo": "punjab-engineering-college-1661765728.webp",
+        "collegeUrl": "punjab-engineering-college-deemed-to-be-university",
+        "shortUrl": "pec-chandigarh",
+        "shortName": "PEC Chandigarh",
+        "nirfRank": 87,
+        "estdYear": 1921,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Punjab",
+        "city": "Chandigarh",
+        "courses": [179, 6, 9, 41, 8, 10, 269, 244]
+      },
+      {
+        "id": 85,
+        "name": "Shri Mata Vaishno Devi University",
+        "logo": "shri-mata-vaishno-1661766875.webp",
+        "collegeUrl": "shri-mata-vaishno-devi-university",
+        "shortUrl": "smvdu-katra",
+        "shortName": "SMVDU Jammu and Kashmir",
+        "nirfRank": 101,
+        "estdYear": 1999,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Jammu and Kashmir",
+        "city": "Katra",
+        "courses": [9, 8, 10]
+      },
+      {
+        "id": 118,
+        "name": "National Institute of Food Technology, Entrepreneurship and Management",
+        "logo": "national-institute-of-1661835590.webp",
+        "collegeUrl": "national-institute-of-food-technology-entrepreneurship-and-management",
+        "shortUrl": "niftem-sonipat",
+        "shortName": "NIFTEM Sonipat",
+        "nirfRank": 127,
+        "estdYear": 2012,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Haryana",
+        "city": "Sonipat",
+        "courses": [52]
+      },
+      {
+        "id": 839,
+        "name": "National Institute of Advanced Manufacturing Technology Ranchi",
+        "logo": "National-Institute-Of-Advanced-Manufacturing-Technology-Ranchi.webp",
+        "collegeUrl": "national-institute-of-advanced-manufacturing-technology-ranchi",
+        "shortUrl": "niamt-ranchi",
+        "shortName": "NIAMT Ranchi",
+        "nirfRank": 151,
+        "estdYear": 1966,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Jharkhand",
+        "city": "Ranchi",
+        "courses": [121, 10, 1608]
+      },
+      {
+        "id": 133,
+        "name": "Sant Longowal Institute of Engineering & Technology",
+        "logo": "sant-longowal-institute-1661839500.webp",
+        "collegeUrl": "sant-longowal-institute-of-engineering-technology",
+        "shortUrl": "sliet-longowal",
+        "shortName": "SLIET Longowal",
+        "nirfRank": 178,
+        "estdYear": 1989,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Punjab",
+        "city": "Longowal",
+        "courses": [126, 41, 8, 52, 42, 9, 10]
+      },
+      {
+        "id": 792,
+        "name": "Institute of Infrastructure Technology Research and Management",
+        "logo": "Institute-Of-Infrastructure-Technology-Research-And-Management.webp",
+        "collegeUrl": "institute-of-infrastructure-technology-research-and-management",
+        "shortUrl": "iitram-gujarat",
+        "shortName": "IITRAM Gujarat",
+        "nirfRank": 190,
+        "estdYear": 2013,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "courses": [6, 41, 10]
+      },
+      {
+        "id": 173,
+        "name": "North Eastern Regional Institute of Science & Technology",
+        "logo": "north-eastern-regional-1661842858.webp",
+        "collegeUrl": "north-eastern-regional-institute-of-science-technology",
+        "shortUrl": "nerist-nirjuli",
+        "shortName": "NERIST Nirjuli",
+        "nirfRank": 0,
+        "estdYear": 1983,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "GFTI",
+        "state": "Arunachal Pradesh",
+        "city": "Itanagar",
+        "courses": [31, 6, 9, 41, 8, 10]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 GFTI Engineering Colleges In India",
+      "url": "/top/10/gfti/colleges-in-india",
+      "description": "Top GFTIs In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top gfti colleges in India, best gfti colleges in India, top gfti courses in India, list of top gfti colleges in India, top colleges in India for gfti, top 10 gfti colleges in India, best 10 gfti colleges in India, Top NITs, IIT, IIIT, GFTI, Government gfti colleges, private gfti colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 997,
+        "courseName": "FIBRES AND TEXTILES PROCESSING TECHNOLOGY",
+        "longUrl": "fibres-and-textiles-processing-technology",
+        "shortUrl": "fibres-and-textiles-processing-technology"
+      },
+      {
+        "courseId": 211,
+        "courseName": "FOOD ENGINEERING AND TECHNOLOGY",
+        "longUrl": "food-engineering-and-technology",
+        "shortUrl": "food-engineering-and-technology"
+      },
+      {
+        "courseId": 994,
+        "courseName": "OILS, OLEOCHEMICALS AND SURFACTANTS TECHNOLOGY",
+        "longUrl": "oils-oleochemicals-and-surfactants-technology",
+        "shortUrl": "oils-oleochemicals-and-surfactants-technology"
+      },
+      {
+        "courseId": 25,
+        "courseName": "PHARMACEUTICAL CHEMISTRY AND TECHNOLOGY",
+        "longUrl": "pharmaceutical-chemistry-and-technology",
+        "shortUrl": "pharmaceutical-chemistry-and-technology"
+      },
+      {
+        "courseId": 442,
+        "courseName": "POLYMER ENGINEERING",
+        "longUrl": "polymer-engineering",
+        "shortUrl": "polymer-engineering"
+      },
+      {
+        "courseId": 672,
+        "courseName": "SURFACE COATING TECHNOLOGY",
+        "longUrl": "surface-coating-technology",
+        "shortUrl": "surface-coating-technology"
+      },
+      {
+        "courseId": 708,
+        "courseName": "CHEMICAL TECHNOLOGY",
+        "longUrl": "chemical-technology",
+        "shortUrl": "chemical-technology"
+      },
+      {
+        "courseId": 195,
+        "courseName": "ENVIRONMENTAL SCIENCE AND TECHNOLOGY",
+        "longUrl": "environmental-science-and-technology",
+        "shortUrl": "environmental-science-and-technology"
+      },
+      {
+        "courseId": 996,
+        "courseName": "DYESTUFF TECHNOLOGY",
+        "longUrl": "dyestuff-technology",
+        "shortUrl": "dyestuff-technology"
+      },
+      {
+        "courseId": 115,
+        "courseName": "ARCHITECTURE",
+        "longUrl": "architecture",
+        "shortUrl": "architecture"
+      },
+      {
+        "courseId": 120,
+        "courseName": "BIOTECHNOLOGY",
+        "longUrl": "biotechnology",
+        "shortUrl": "biotechnology"
+      },
+      {
+        "courseId": 126,
+        "courseName": "CHEMICAL ENGINEERING",
+        "longUrl": "chemical-engineering",
+        "shortUrl": "chemical-engineering"
+      },
+      {
+        "courseId": 6,
+        "courseName": "CIVIL ENGINEERING",
+        "longUrl": "civil-engineering",
+        "shortUrl": "civil-engineering"
+      },
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 32,
+        "courseName": "INFORMATION TECHNOLOGY",
+        "longUrl": "information-technology",
+        "shortUrl": "information-technology"
+      },
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 244,
+        "courseName": "PRODUCTION AND INDUSTRIAL ENGINEERING",
+        "longUrl": "production-and-industrial-engineering",
+        "shortUrl": "production-and-industrial-engineering"
+      },
+      {
+        "courseId": 62,
+        "courseName": "HOTEL MANAGEMENT AND CATERING TECHNOLOGY",
+        "longUrl": "hotel-management-and-catering-technology",
+        "shortUrl": "hotel-management-and-catering-technology"
+      },
+      {
+        "courseId": 11,
+        "courseName": "PHARMACY",
+        "longUrl": "pharmacy",
+        "shortUrl": "pharmacy"
+      },
+      {
+        "courseId": 179,
+        "courseName": "AEROSPACE ENGINEERING",
+        "longUrl": "aerospace-engineering",
+        "shortUrl": "aerospace-engineering"
+      },
+      {
+        "courseId": 269,
+        "courseName": "METALLURGICAL AND MATERIAL SCIENCE ENGINEERING",
+        "longUrl": "metallurgical-and-material-science-engineering",
+        "shortUrl": "metallurgical-and-material-science-engineering"
+      },
+      {
+        "courseId": 121,
+        "courseName": "MANUFACTURING ENGINEERING",
+        "longUrl": "manufacturing-engineering",
+        "shortUrl": "manufacturing-engineering"
+      },
+      {
+        "courseId": 1608,
+        "courseName": "Metallurgical and Materials Engineering",
+        "longUrl": "metallurgical-and-materials-engineering",
+        "shortUrl": "metallurgical-and-materials-engineering"
+      },
+      {
+        "courseId": 41,
+        "courseName": "ELECTRICAL ENGINEERING",
+        "longUrl": "electrical-engineering",
+        "shortUrl": "electrical-engineering"
+      },
+      {
+        "courseId": 52,
+        "courseName": "FOOD TECHNOLOGY AND MANAGEMENT",
+        "longUrl": "food-technology-and-management",
+        "shortUrl": "food-technology-and-management"
+      },
+      {
+        "courseId": 42,
+        "courseName": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "longUrl": "instrumentation-and-control-engineering",
+        "shortUrl": "instrumentation-and-control-engineering"
+      },
+      {
+        "courseId": 31,
+        "courseName": "AGRICULTURAL ENGINEERING",
+        "longUrl": "agricultural-engineering",
+        "shortUrl": "agricultural-engineering"
+      }
+    ]
+  },
+  {
+    "collegeData": [
+      {
+        "id": 14,
+        "name": "Jadavpur University",
+        "logo": "jadavpur-university-1661753372.webp",
+        "collegeUrl": "jadavpur-university",
+        "shortUrl": "ju-kolkata",
+        "shortName": "JU Kolkata",
+        "nirfRank": 11,
+        "estdYear": 1905,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "courses": [
+          115, 376, 233, 463, 813, 191, 211, 32, 734, 33, 126, 9, 6, 41, 10, 11
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Anna University",
+        "logo": "anna-university-1661753796.webp",
+        "collegeUrl": "anna-university",
+        "shortUrl": "annauniversity-chennai",
+        "shortName": "Anna University",
+        "nirfRank": 17,
+        "estdYear": 1978,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "courses": [
+          115, 375, 301, 132, 52, 329, 361, 84, 360, 99, 343, 40, 7, 327, 318,
+          121, 376, 75, 176, 191, 377, 6, 126, 8, 48, 10, 32, 9
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Jamia Millia Islamia",
+        "logo": "jamia-millia-islamia-1661754586.webp",
+        "collegeUrl": "jamia-millia-islamia",
+        "shortUrl": "jmi-newdelhi",
+        "shortName": "JMI NewDelhi",
+        "nirfRank": 26,
+        "estdYear": 1920,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Delhi",
+        "city": "New Delhi",
+        "courses": [6, 9, 41, 8, 10, 115]
+      },
+      {
+        "id": 34,
+        "name": "Delhi Technological University",
+        "logo": "delhi-technological-university-1661755591.webp",
+        "collegeUrl": "delhi-technological-university",
+        "shortUrl": "dtu-delhi",
+        "shortName": "DTU Delhi",
+        "nirfRank": 35,
+        "estdYear": 1941,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Delhi",
+        "city": "New Delhi",
+        "courses": [
+          703, 48, 120, 126, 6, 34, 41, 8, 570, 112, 32, 706, 10, 244, 72
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Aligarh Muslim University",
+        "logo": "aligarh-muslim-university-1661755727.webp",
+        "collegeUrl": "aligarh-muslim-university",
+        "shortUrl": "amu-aligarh",
+        "shortName": "AMU Uttar Pradesh",
+        "nirfRank": 37,
+        "estdYear": 1875,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Uttar Pradesh",
+        "city": "Aligarh",
+        "courses": [126, 41, 10, 6, 7, 2112, 9]
+      },
+      {
+        "id": 30,
+        "name": "Indian Institute of Space Science and Technology",
+        "logo": "indian-institute-of-1661756062.webp",
+        "collegeUrl": "indian-institute-of-space-science-and-technology",
+        "shortUrl": "iist-thiruvananthapuram",
+        "shortName": "IIST Thiruvananthapuram",
+        "nirfRank": 43,
+        "estdYear": 2007,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Kerala",
+        "city": "Thiruvananthapuram",
+        "courses": [179, 969, 570]
+      },
+      {
+        "id": 759,
+        "name": "Visvesvaraya Technological University",
+        "logo": "visvesvaraya-technological-university-1661756333.webp",
+        "collegeUrl": "visvesvaraya-technological-university",
+        "shortUrl": "vtu-belgaum",
+        "shortName": "VTU Belagavi",
+        "nirfRank": 49,
+        "estdYear": 1988,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Karnataka",
+        "city": "Belgaum",
+        "courses": [179, 6, 9, 2105, 10, 200]
+      },
+      {
+        "id": 49,
+        "name": "College of Engineering Pune",
+        "logo": "College_of_Engineering_Pune_logo.webp",
+        "collegeUrl": "college-of-engineering-pune",
+        "shortUrl": "coep-pune",
+        "shortName": "COEP Pune",
+        "nirfRank": 72,
+        "estdYear": 1854,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "courses": [314, 6, 34, 41, 33, 42, 60, 10, 507]
+      },
+      {
+        "id": 73,
+        "name": "Guru Gobind Singh Indraprastha University",
+        "logo": "guru-gobind-singh-1661757989.webp",
+        "collegeUrl": "guru-gobind-singh-indraprastha-university",
+        "shortUrl": "ggsipu-newdelhi",
+        "shortName": "GGSIPU Delhi",
+        "nirfRank": 74,
+        "estdYear": 1998,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Delhi",
+        "city": "New Delhi",
+        "courses": [120, 126, 9, 8, 596, 248, 32, 925, 12]
+      },
+      {
+        "id": 45,
+        "name": "Jawaharlal Nehru Technological University",
+        "logo": "jawaharlal-nehru-technological-1661758094.webp",
+        "collegeUrl": "jawaharlal-nehru-technological-university",
+        "shortUrl": "jntu-hyderabad",
+        "shortName": "JNTU Telangana",
+        "nirfRank": 76,
+        "estdYear": 1947,
+        "type": "Engineering",
+        "ownership": "Government",
+        "category": "Government",
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "courses": [126, 6, 9, 7, 8, 10, 233]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 Government Engineering Colleges In India",
+      "url": "/top/10/government/colleges-in-india",
+      "description": "Top Government Colleges In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top government colleges in India, best government colleges in India, top government courses in India, list of top government colleges in India, top colleges in India for government, top 10 government colleges in India, best 10 government colleges in India, Top NITs, IIT, IIIT, GFTI, Government colleges, private colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 115,
+        "courseName": "ARCHITECTURE",
+        "longUrl": "architecture",
+        "shortUrl": "architecture"
+      },
+      {
+        "courseId": 376,
+        "courseName": "PRINTING TECHNOLOGY",
+        "longUrl": "printing-technology",
+        "shortUrl": "printing-technology"
+      },
+      {
+        "courseId": 233,
+        "courseName": "METALLURGICAL ENGINEERING",
+        "longUrl": "metallurgical-engineering",
+        "shortUrl": "metallurgical-engineering"
+      },
+      {
+        "courseId": 463,
+        "courseName": "CONSTRUCTION ENGINEERING",
+        "longUrl": "construction-engineering",
+        "shortUrl": "construction-engineering"
+      },
+      {
+        "courseId": 813,
+        "courseName": "POWER ENGINEERING",
+        "longUrl": "power-engineering",
+        "shortUrl": "power-engineering"
+      },
+      {
+        "courseId": 191,
+        "courseName": "PRODUCTION ENGINEERING",
+        "longUrl": "production-engineering",
+        "shortUrl": "production-engineering"
+      },
+      {
+        "courseId": 211,
+        "courseName": "FOOD ENGINEERING AND TECHNOLOGY",
+        "longUrl": "food-engineering-and-technology",
+        "shortUrl": "food-engineering-and-technology"
+      },
+      {
+        "courseId": 32,
+        "courseName": "INFORMATION TECHNOLOGY",
+        "longUrl": "information-technology",
+        "shortUrl": "information-technology"
+      },
+      {
+        "courseId": 734,
+        "courseName": "INSTRUMENTATION AND ELECTRONICS",
+        "longUrl": "instrumentation-and-electronics",
+        "shortUrl": "instrumentation-and-electronics"
+      },
+      {
+        "courseId": 33,
+        "courseName": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING",
+        "longUrl": "electronics-and-telecommunications-engineering",
+        "shortUrl": "electronics-and-telecommunications-engineering"
+      },
+      {
+        "courseId": 126,
+        "courseName": "CHEMICAL ENGINEERING",
+        "longUrl": "chemical-engineering",
+        "shortUrl": "chemical-engineering"
+      },
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 6,
+        "courseName": "CIVIL ENGINEERING",
+        "longUrl": "civil-engineering",
+        "shortUrl": "civil-engineering"
+      },
+      {
+        "courseId": 41,
+        "courseName": "ELECTRICAL ENGINEERING",
+        "longUrl": "electrical-engineering",
+        "shortUrl": "electrical-engineering"
+      },
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 11,
+        "courseName": "PHARMACY",
+        "longUrl": "pharmacy",
+        "shortUrl": "pharmacy"
+      },
+      {
+        "courseId": 375,
+        "courseName": "APPAREL TECHNOLOGY",
+        "longUrl": "apparel-technology",
+        "shortUrl": "apparel-technology"
+      },
+      {
+        "courseId": 176,
+        "courseName": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "longUrl": "electronics-and-instrumentation-engineering",
+        "shortUrl": "electronics-and-instrumentation-engineering"
+      },
+      {
+        "courseId": 301,
+        "courseName": "MATERIAL SCIENCE AND ENGINEERING",
+        "longUrl": "material-science-and-engineering",
+        "shortUrl": "material-science-and-engineering"
+      },
+      {
+        "courseId": 377,
+        "courseName": "RUBBER AND PLASTICS TECHNOLOGY",
+        "longUrl": "rubber-and-plastics-technology",
+        "shortUrl": "rubber-and-plastics-technology"
+      },
+      {
+        "courseId": 132,
+        "courseName": "MINING ENGINEERING",
+        "longUrl": "minings-engineering",
+        "shortUrl": "minings-engineering"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 52,
+        "courseName": "FOOD TECHNOLOGY AND MANAGEMENT",
+        "longUrl": "food-technology-and-management",
+        "shortUrl": "food-technology-and-management"
+      },
+      {
+        "courseId": 48,
+        "courseName": "AUTOMOBILE ENGINEERING",
+        "longUrl": "automobile-engineering",
+        "shortUrl": "automobile-engineering"
+      },
+      {
+        "courseId": 329,
+        "courseName": "CERAMIC TECHNOLOGY",
+        "longUrl": "ceramic-technology",
+        "shortUrl": "ceramic-technology"
+      },
+      {
+        "courseId": 361,
+        "courseName": "INDUSTRIAL BIOTECHNOLOGY",
+        "longUrl": "industrial-biotechnology",
+        "shortUrl": "industrial-biotechnology"
+      },
+      {
+        "courseId": 84,
+        "courseName": "LEATHER TECHNOLOGY",
+        "longUrl": "leather-technology",
+        "shortUrl": "leather-technology"
+      },
+      {
+        "courseId": 360,
+        "courseName": "PETROLEUM ENGINEERING AND TECHNOLOGY",
+        "longUrl": "petroleum-engineering-and-technology",
+        "shortUrl": "petroleum-engineering-and-technology"
+      },
+      {
+        "courseId": 99,
+        "courseName": "PHARMACEUTICAL TECHNOLOGY",
+        "longUrl": "pharmaceutical-technology",
+        "shortUrl": "pharmaceutical-technology"
+      },
+      {
+        "courseId": 343,
+        "courseName": "TEXTILE TECHNOLOGY",
+        "longUrl": "textile-technology",
+        "shortUrl": "textile-technology"
+      },
+      {
+        "courseId": 40,
+        "courseName": "BIOMEDICAL ENGINEERING",
+        "longUrl": "biomedical-engineering",
+        "shortUrl": "biomedical-engineering"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 327,
+        "courseName": "GEOINFORMATICS",
+        "longUrl": "geoinformatics",
+        "shortUrl": "geoinformatics"
+      },
+      {
+        "courseId": 318,
+        "courseName": "INDUSTRIAL ENGINEERING",
+        "longUrl": "industrial-engineering",
+        "shortUrl": "industrial-engineering"
+      },
+      {
+        "courseId": 121,
+        "courseName": "MANUFACTURING ENGINEERING",
+        "longUrl": "manufacturing-engineering",
+        "shortUrl": "manufacturing-engineering"
+      },
+      {
+        "courseId": 75,
+        "courseName": "AERONAUTICAL ENGINEERING",
+        "longUrl": "aeronautical-engineering",
+        "shortUrl": "aeronautical-engineering"
+      },
+      {
+        "courseId": 703,
+        "courseName": "BACHELOR OF DESIGN",
+        "longUrl": "bachelor-of-design",
+        "shortUrl": "bachelor-of-design"
+      },
+      {
+        "courseId": 120,
+        "courseName": "BIOTECHNOLOGY",
+        "longUrl": "biotechnology",
+        "shortUrl": "biotechnology"
+      },
+      {
+        "courseId": 34,
+        "courseName": "COMPUTER ENGINEERING",
+        "longUrl": "computer-engineering",
+        "shortUrl": "computer-engineering"
+      },
+      {
+        "courseId": 570,
+        "courseName": "ENGINEERING PHYSICS",
+        "longUrl": "engineering-physics",
+        "shortUrl": "engineering-physics"
+      },
+      {
+        "courseId": 112,
+        "courseName": "ENVIRONMENTAL ENGINEERING",
+        "longUrl": "environmental-engineering",
+        "shortUrl": "environmental-engineering"
+      },
+      {
+        "courseId": 706,
+        "courseName": "MATHEMATICS AND COMPUTING",
+        "longUrl": "mathematics-and-computing",
+        "shortUrl": "mathematics-and-computing"
+      },
+      {
+        "courseId": 244,
+        "courseName": "PRODUCTION AND INDUSTRIAL ENGINEERING",
+        "longUrl": "production-and-industrial-engineering",
+        "shortUrl": "production-and-industrial-engineering"
+      },
+      {
+        "courseId": 72,
+        "courseName": "SOFTWARE ENGINEERING",
+        "longUrl": "software-engineering",
+        "shortUrl": "software-engineering"
+      },
+      {
+        "courseId": 2112,
+        "courseName": "Post Harvest Engineering and Technology",
+        "longUrl": "post-harvest-engineering-and-technology",
+        "shortUrl": "post-harvest-engineering-and-technology"
+      },
+      {
+        "courseId": 179,
+        "courseName": "AEROSPACE ENGINEERING",
+        "longUrl": "aerospace-engineering",
+        "shortUrl": "aerospace-engineering"
+      },
+      {
+        "courseId": 969,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING (AVIONICS)",
+        "longUrl": "electronics-and-communication-engineering-avionics",
+        "shortUrl": "electronics-and-communication-engineering-avionics"
+      },
+      {
+        "courseId": 2105,
+        "courseName": "Electronics and Communications Engineering",
+        "longUrl": "electronics-and-communications-engineering",
+        "shortUrl": "electronics-and-communications-engineering"
+      },
+      {
+        "courseId": 200,
+        "courseName": "ROBOTICS AND AUTOMATION",
+        "longUrl": "robotics-and-automation",
+        "shortUrl": "robotics-and-automation"
+      },
+      {
+        "courseId": 42,
+        "courseName": "INSTRUMENTATION AND CONTROL ENGINEERING",
+        "longUrl": "instrumentation-and-control-engineering",
+        "shortUrl": "instrumentation-and-control-engineering"
+      },
+      {
+        "courseId": 60,
+        "courseName": "MANUFACTURING SCIENCE AND ENGINEERING",
+        "longUrl": "manufacturing-science-and-engineering",
+        "shortUrl": "manufacturing-science-and-engineering"
+      },
+      {
+        "courseId": 507,
+        "courseName": "METALLURGY AND MATERIAL TECHNOLOGY",
+        "longUrl": "metallurgy-and-material-technology",
+        "shortUrl": "metallurgy-and-material-technology"
+      },
+      {
+        "courseId": 314,
+        "courseName": "PLANNING",
+        "longUrl": "planning",
+        "shortUrl": "planning"
+      }
+    ]
+  },
+  {
+    "collegeData": [
+      {
+        "id": 829,
+        "name": "Vellore Institute of Technology",
+        "logo": "vellore-institute-of-1661753436.webp",
+        "collegeUrl": "vellore-institute-of-technology",
+        "shortUrl": "vit-vellore",
+        "shortName": "VIT Vellore",
+        "nirfRank": 12,
+        "estdYear": 1984,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Tamil Nadu",
+        "city": "Vellore",
+        "courses": [
+          115, 703, 1178, 1261, 1424, 781, 126, 1426, 176, 120, 6, 36, 1241,
+          1428, 141, 7, 32, 8, 10, 9
+        ]
+      },
+      {
+        "id": 830,
+        "name": "Amrita Vishwa Vidyapeetham Coimbatore",
+        "logo": "amrita-vishwa-vidyapeetham-1661754101.webp",
+        "collegeUrl": "amrita-vishwa-vidyapeetham-coimbatore",
+        "shortUrl": "avvc-coimbatore",
+        "shortName": "AVV Coimbatore",
+        "nirfRank": 19,
+        "estdYear": 1994,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Tamil Nadu",
+        "city": "Coimbatore",
+        "courses": [179, 131, 126, 6, 295, 124, 238, 140, 7, 10, 8, 9]
+      },
+      {
+        "id": 36,
+        "name": "SRM Institute of Science and Technology",
+        "logo": "srm-institute-of-1654161589.webp",
+        "collegeUrl": "srm-institute-of-science-and-technology",
+        "shortUrl": "srmist-kancheepuram",
+        "shortName": "SRMIST Chennai",
+        "nirfRank": 24,
+        "estdYear": 1985,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "courses": [
+          115, 393, 11, 1269, 1275, 297, 1270, 6, 1276, 1277, 176, 1280, 266,
+          179, 48, 40, 126, 160, 1178, 1273, 36, 1144, 141, 7, 227, 74, 1260,
+          1259, 1271, 54, 1272, 1258, 10, 120, 124, 35, 8, 9
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Amity University Noida",
+        "logo": "amity-university-noida-1661754525.webp",
+        "collegeUrl": "amity-university-noida",
+        "shortUrl": "auup-noida",
+        "shortName": "AUUP Noida",
+        "nirfRank": 25,
+        "estdYear": 2005,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "courses": [
+          6, 9, 2105, 403, 131, 75, 179, 76, 48, 322, 98, 7, 8, 2106, 2107,
+          1902, 32, 10, 266
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Siksha O Anusandhan",
+        "logo": "siksha-o-anusandhan-1661754631.webp",
+        "collegeUrl": "siksha-o-anusandhan",
+        "shortUrl": "soa-bhubaneswar",
+        "shortName": "SOA Bhubaneswar",
+        "nirfRank": 27,
+        "estdYear": 1996,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Odisha",
+        "city": "Bhubaneswar",
+        "courses": [9, 88, 8, 10, 6, 41, 7]
+      },
+      {
+        "id": 23,
+        "name": "Thapar Institute of Engineering And Technology",
+        "logo": "thapar-institute-of-1661754674.webp",
+        "collegeUrl": "thapar-institute-of-engineering-and-technology",
+        "shortUrl": "tiet-patiala",
+        "shortName": "TIET Patiala",
+        "nirfRank": 28,
+        "estdYear": 1956,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Punjab",
+        "city": "Patiala",
+        "courses": [40, 120, 126, 160, 238, 74, 457, 6, 41, 9, 8, 227, 10, 34]
+      },
+      {
+        "id": 25,
+        "name": "Birla Institute of Technology & Science",
+        "logo": "birla-institute-of-1661754722.webp",
+        "collegeUrl": "birla-institute-of-technology-science",
+        "shortUrl": "bits-pilani",
+        "shortName": "BITS Pilani",
+        "nirfRank": 29,
+        "estdYear": 1964,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Rajasthan",
+        "city": "Pilani",
+        "courses": [10, 121, 6, 7, 43, 126, 9, 98]
+      },
+      {
+        "id": 61,
+        "name": "Kalasalingam Academy of Research and Higher Education",
+        "logo": "kalasalingam-academy-of-1661755771.webp",
+        "collegeUrl": "kalasalingam-academy-of-research-and-higher-education",
+        "shortUrl": "kare-srivilliputtur",
+        "shortName": "KARE Tamil Nadu",
+        "nirfRank": 39,
+        "estdYear": 1984,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Tamil Nadu",
+        "city": "Srivilliputtur",
+        "courses": [
+          75, 48, 126, 7, 31, 40, 6, 279, 35, 32, 52, 120, 36, 10, 124, 9, 8
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Shanmugha Arts Science Technology & Research Academy",
+        "logo": "shanmugha-arts-science-1661755921.webp",
+        "collegeUrl": "shanmugha-arts-science-technology-research-academy",
+        "shortUrl": "sastra-thanjavur",
+        "shortName": "SASTRA Thanjavur",
+        "nirfRank": 41,
+        "estdYear": 1984,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Tamil Nadu",
+        "city": "Thanjavur",
+        "courses": [
+          9, 8, 179, 1297, 322, 126, 6, 160, 1300, 1299, 1298, 1277, 176, 184,
+          1301, 74, 552, 7, 32, 120, 10
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Kalinga Institute of Industrial Technology",
+        "logo": "kalinga-institute-of-1661755984.webp",
+        "collegeUrl": "kalinga-institute-of-industrial-technology",
+        "shortUrl": "kiit-bhubaneswar",
+        "shortName": "KIIT Odisha",
+        "nirfRank": 42,
+        "estdYear": 1997,
+        "type": "Engineering",
+        "ownership": "Private",
+        "category": "Private",
+        "state": "Odisha",
+        "city": "Bhubaneswar",
+        "courses": [
+          295, 179, 120, 708, 335, 227, 176, 10, 74, 383, 32, 6, 41, 33, 9
+        ]
+      }
+    ],
+    "pageData": {
+      "title": "Top 10 Private Engineering Colleges In India",
+      "url": "/top/10/private/colleges-in-india",
+      "description": "Top Private Engineering In india With Courses, Fees, Cut-Off, Admission, Placement, Reviews, Ranking, Latest News, And More On Collegesuggest.com",
+      "keywords": "collgesuggest, top private colleges in India, best private colleges in India, top private courses in India, list of top private colleges in India, top colleges in India for private, top 10 private colleges in India, best 10 private colleges in India, Top NITs, IIT, IIIT, GFTI, Government colleges, private colleges",
+      "contents": "<p>&nbsp;</p>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Schedule of events</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 1 dates</th>\n\t\t\t<th>Tentative JEE Main 2023 Session 2 dates</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1.Exam date</td>\n\t\t\t<td>24, 25, 27, 28, 29, 30 and 31 January 2023</td>\n\t\t\t<td>06, 08, 10, 11, 12 April 2023</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2.JEE Main application window start date</td>\n\t\t\t<td>15 December 2022</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3.JEE Main last date for filling application</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4.JEE Main exam admit card release</td>\n\t\t\t<td>Third week of the January 2023</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5.Answer key for JEE Main exam release date&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6.Results for JEE Main exam&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t\t<td>To be announced&nbsp;</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>&nbsp;</p>\n\n<ul>\n\t<li>JEE Main exam is conducted in 2 sessions and each session has 2 shifts each day- Shift 1from 9 am to 12 pm and Shift 2 is from 3pm to 6 pm.</li>\n\t<li>Some of the schedules that the candidates need to know about the JEE Main exam are</li>\n</ul>\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th>Details</th>\n\t\t\t<th>Shift 1</th>\n\t\t\t<th>Shift 2&nbsp;</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>1. Exam timing</td>\n\t\t\t<td>9 AM -12 PM&nbsp;</td>\n\t\t\t<td>3 PM -6 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>2. Candidate entry to the exam center</td>\n\t\t\t<td>08:30 AM&nbsp;</td>\n\t\t\t<td>2:30 PM&nbsp;</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>3. Instructions given by the invigilator to candidates</td>\n\t\t\t<td>08:30 AM - 08:50 AM&nbsp;</td>\n\t\t\t<td>2:30 AM- 2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>4. Login time</td>\n\t\t\t<td>08:50 AM&nbsp;</td>\n\t\t\t<td>2:50 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>5. JEE Main exam start time</td>\n\t\t\t<td>9 AM&nbsp;</td>\n\t\t\t<td>3 PM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>6. JEE Main exam end time</td>\n\t\t\t<td>12 PM&nbsp;</td>\n\t\t\t<td>6 PM</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<p>So there will be 2 shifts for each session of the JEE main exam, the first shift exam time is from 9 am to 12 pm and the second shift is from 3 pm to 6pm, it is a good practice to reach the exam center at least one hour before the start time as it will give you enough time to settle down and get all the necessary documents to take into the center. Applicants will be allowed to enter the center at 8:30 am for the first shift and 2:30 pm for the second shift where the invigilator will give appropriate instructions and the candidates will start to read the instructions to login around 10 minutes prior to the starting of the exam time.</p>\n",
+      "collegeTypeId": 1
+    },
+    "courses": [
+      {
+        "courseId": 703,
+        "courseName": "BACHELOR OF DESIGN",
+        "longUrl": "bachelor-of-design",
+        "shortUrl": "bachelor-of-design"
+      },
+      {
+        "courseId": 1261,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING (BIO-MEDICAL ENGINEERING)",
+        "longUrl": "electronics-and-communication-engineering-bio-medical-engineering",
+        "shortUrl": "electronics-and-communication-engineering-bio-medical-engineering"
+      },
+      {
+        "courseId": 1424,
+        "courseName": "MECHANICAL ENGINEERING (AUTOMOTIVE ENGINEERING)",
+        "longUrl": "mechanical-engineering-automotive-engineering",
+        "shortUrl": "mechanical-engineering-automotive-engineering"
+      },
+      {
+        "courseId": 781,
+        "courseName": "MECHANICAL ENGINEERING (MANUFACTURING ENGINEERING)",
+        "longUrl": "mechanical-engineering-manufacturing-engineering",
+        "shortUrl": "mechanical-engineering-manufacturing-engineering"
+      },
+      {
+        "courseId": 1426,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (BIOINFORMATICS)",
+        "longUrl": "computer-science-and-engineering-bioinformatics",
+        "shortUrl": "computer-science-and-engineering-bioinformatics"
+      },
+      {
+        "courseId": 1241,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING AND BUSINESS SYSTEMS",
+        "longUrl": "computer-science-and-engineering-and-business-systems",
+        "shortUrl": "computer-science-and-engineering-and-business-systems"
+      },
+      {
+        "courseId": 1428,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (INFORMATION SECURITY)",
+        "longUrl": "computer-science-and-engineering-information-security",
+        "shortUrl": "computer-science-and-engineering-information-security"
+      },
+      {
+        "courseId": 179,
+        "courseName": "AEROSPACE ENGINEERING",
+        "longUrl": "aerospace-engineering",
+        "shortUrl": "aerospace-engineering"
+      },
+      {
+        "courseId": 131,
+        "courseName": "AUTOMATION AND ROBOTICS",
+        "longUrl": "automation-and-robotics",
+        "shortUrl": "automation-and-robotics"
+      },
+      {
+        "courseId": 126,
+        "courseName": "CHEMICAL ENGINEERING",
+        "longUrl": "chemical-engineering",
+        "shortUrl": "chemical-engineering"
+      },
+      {
+        "courseId": 6,
+        "courseName": "CIVIL ENGINEERING",
+        "longUrl": "civil-engineering",
+        "shortUrl": "civil-engineering"
+      },
+      {
+        "courseId": 295,
+        "courseName": "COMPUTER AND COMMUNICATION ENGINEERING",
+        "longUrl": "computer-and-communication-engineering",
+        "shortUrl": "computer-and-communication-engineering"
+      },
+      {
+        "courseId": 124,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+        "longUrl": "computer-science-and-engineering-cyber-security",
+        "shortUrl": "computer-science-and-engineering-cyber-security"
+      },
+      {
+        "courseId": 238,
+        "courseName": "ELECTRICAL AND COMPUTER ENGINEERING",
+        "longUrl": "electrical-and-computer-engineering",
+        "shortUrl": "electrical-and-computer-engineering"
+      },
+      {
+        "courseId": 140,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE )",
+        "longUrl": "computer-science-and-engineering-artificial-intelligence",
+        "shortUrl": "computer-science-and-engineering-artificial-intelligence"
+      },
+      {
+        "courseId": 7,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+        "longUrl": "electrical-and-electronics-engineering",
+        "shortUrl": "electrical-and-electronics-engineering"
+      },
+      {
+        "courseId": 10,
+        "courseName": "MECHANICAL ENGINEERING",
+        "longUrl": "mechanical-engineering",
+        "shortUrl": "mechanical-engineering"
+      },
+      {
+        "courseId": 8,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+        "longUrl": "electronics-and-communication-engineering",
+        "shortUrl": "electronics-and-communication-engineering"
+      },
+      {
+        "courseId": 9,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING",
+        "longUrl": "computer-science-and-engineering",
+        "shortUrl": "computer-science-and-engineering"
+      },
+      {
+        "courseId": 1275,
+        "courseName": "AUTOMOBILE ENGINEERING (VEHICLE TESTING)",
+        "longUrl": "automobile-engineering-vehicle-testing",
+        "shortUrl": "automobile-engineering-vehicle-testing"
+      },
+      {
+        "courseId": 227,
+        "courseName": "ELECTRONICS AND COMPUTER ENGINEERING",
+        "longUrl": "electronics-and-computer-engineering",
+        "shortUrl": "electronics-and-computer-engineering"
+      },
+      {
+        "courseId": 297,
+        "courseName": "AUTOMOTIVE ENGINEERING",
+        "longUrl": "automotive-engineering",
+        "shortUrl": "automotive-engineering"
+      },
+      {
+        "courseId": 74,
+        "courseName": "MECHATRONICS ENGINEERING",
+        "longUrl": "mechatronics-engineering",
+        "shortUrl": "mechatronics-engineering"
+      },
+      {
+        "courseId": 1270,
+        "courseName": "BIOTECHNOLOGY (REGENERATIVE MEDICINE)",
+        "longUrl": "biotechnology-regenerative-medicine",
+        "shortUrl": "biotechnology-regenerative-medicine"
+      },
+      {
+        "courseId": 1260,
+        "courseName": "BIOTECHNOLOGY (GENETIC ENGINEERING)",
+        "longUrl": "biotechnology-genetic-engineering",
+        "shortUrl": "biotechnology-genetic-engineering"
+      },
+      {
+        "courseId": 1276,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING (DATA SCIENCE)",
+        "longUrl": "electronics-and-communication-engineering-data-science",
+        "shortUrl": "electronics-and-communication-engineering-data-science"
+      },
+      {
+        "courseId": 1259,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (INFORMATION TECHNOLOGY)",
+        "longUrl": "computer-science-and-engineering-information-technology",
+        "shortUrl": "computer-science-and-engineering-information-technology"
+      },
+      {
+        "courseId": 1277,
+        "courseName": "ELECTRONICS AND COMMUNICATION ENGINEERING (CYBER PHYSICAL SYSTEMS)",
+        "longUrl": "electronics-and-communication-engineering-cyber-physical-systems",
+        "shortUrl": "electronics-and-communication-engineering-cyber-physical-systems"
+      },
+      {
+        "courseId": 1271,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (BIG DATA ANALYTICS)",
+        "longUrl": "computer-science-and-engineering-big-data-analytics",
+        "shortUrl": "computer-science-and-engineering-big-data-analytics"
+      },
+      {
+        "courseId": 176,
+        "courseName": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "longUrl": "electronics-and-instrumentation-engineering",
+        "shortUrl": "electronics-and-instrumentation-engineering"
+      },
+      {
+        "courseId": 54,
+        "courseName": "ARTIFICIAL INTELLIGENCE",
+        "longUrl": "artificial-intelligence",
+        "shortUrl": "artificial-intelligence"
+      },
+      {
+        "courseId": 1272,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (CLOUD COMPUTING)",
+        "longUrl": "computer-science-and-engineering-cloud-computing",
+        "shortUrl": "computer-science-and-engineering-cloud-computing"
+      },
+      {
+        "courseId": 1280,
+        "courseName": "MECHANICAL ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+        "longUrl": "mechanical-engineering-artificial-intelligence-and-machine-learning",
+        "shortUrl": "mechanical-engineering-artificial-intelligence-and-machine-learning"
+      },
+      {
+        "courseId": 1258,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (SOFTWARE ENGINEERING)",
+        "longUrl": "computer-science-and-engineering-software-engineering",
+        "shortUrl": "computer-science-and-engineering-software-engineering"
+      },
+      {
+        "courseId": 266,
+        "courseName": "NANOTECHNOLOGY",
+        "longUrl": "nanotechnology",
+        "shortUrl": "nanotechnology"
+      },
+      {
+        "courseId": 120,
+        "courseName": "BIOTECHNOLOGY",
+        "longUrl": "biotechnology",
+        "shortUrl": "biotechnology"
+      },
+      {
+        "courseId": 48,
+        "courseName": "AUTOMOBILE ENGINEERING",
+        "longUrl": "automobile-engineering",
+        "shortUrl": "automobile-engineering"
+      },
+      {
+        "courseId": 35,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+        "longUrl": "computer-science-and-engineering-artificial-intelligence-and-machine-learning",
+        "shortUrl": "computer-science-and-engineering-artificial-intelligence-and-machine-learning"
+      },
+      {
+        "courseId": 40,
+        "courseName": "BIOMEDICAL ENGINEERING",
+        "longUrl": "biomedical-engineering",
+        "shortUrl": "biomedical-engineering"
+      },
+      {
+        "courseId": 160,
+        "courseName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+        "longUrl": "computer-science-and-business-systems",
+        "shortUrl": "computer-science-and-business-systems"
+      },
+      {
+        "courseId": 1178,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (BLOCK CHAIN TECHNOLOGY)",
+        "longUrl": "computer-science-and-engineering-block-chain-technology",
+        "shortUrl": "computer-science-and-engineering-block-chain-technology"
+      },
+      {
+        "courseId": 1273,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (COMPUTER NETWORKING)",
+        "longUrl": "computer-science-and-engineering-computer-networking",
+        "shortUrl": "computer-science-and-engineering-computer-networking"
+      },
+      {
+        "courseId": 115,
+        "courseName": "ARCHITECTURE",
+        "longUrl": "architecture",
+        "shortUrl": "architecture"
+      },
+      {
+        "courseId": 36,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+        "longUrl": "computer-science-and-engineering-data-science",
+        "shortUrl": "computer-science-and-engineering-data-science"
+      },
+      {
+        "courseId": 393,
+        "courseName": "DESIGN",
+        "longUrl": "design",
+        "shortUrl": "design"
+      },
+      {
+        "courseId": 1144,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (GAMING TECHNOLOGY)",
+        "longUrl": "computer-science-and-engineering-gaming-technology",
+        "shortUrl": "computer-science-and-engineering-gaming-technology"
+      },
+      {
+        "courseId": 11,
+        "courseName": "PHARMACY",
+        "longUrl": "pharmacy",
+        "shortUrl": "pharmacy"
+      },
+      {
+        "courseId": 141,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS)",
+        "longUrl": "computer-science-and-engineering-internet-of-things",
+        "shortUrl": "computer-science-and-engineering-internet-of-things"
+      },
+      {
+        "courseId": 1269,
+        "courseName": "AUTOMOBILE ENGINEERING (AUTOMOTIVE ELECTRONICS)",
+        "longUrl": "automobile-engineering-automotive-electronics",
+        "shortUrl": "automobile-engineering-automotive-electronics"
+      },
+      {
+        "courseId": 2106,
+        "courseName": "Electronics and Instrumentation",
+        "longUrl": "electronics-and-instrumentation",
+        "shortUrl": "electronics-and-instrumentation"
+      },
+      {
+        "courseId": 2107,
+        "courseName": "Electronics and Telecommunication",
+        "longUrl": "electronics-and-telecommunication",
+        "shortUrl": "electronics-and-telecommunication"
+      },
+      {
+        "courseId": 1902,
+        "courseName": "Food Technology",
+        "longUrl": "food-technology",
+        "shortUrl": "food-technology"
+      },
+      {
+        "courseId": 2105,
+        "courseName": "Electronics and Communications Engineering",
+        "longUrl": "electronics-and-communications-engineering",
+        "shortUrl": "electronics-and-communications-engineering"
+      },
+      {
+        "courseId": 403,
+        "courseName": "ROBOTICS AND MECHATRONICS",
+        "longUrl": "robotics-and-mechatronics",
+        "shortUrl": "robotics-and-mechatronics"
+      },
+      {
+        "courseId": 76,
+        "courseName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+        "longUrl": "artificial-intelligence-and-machine-learning",
+        "shortUrl": "artificial-intelligence-and-machine-learning"
+      },
+      {
+        "courseId": 322,
+        "courseName": "BIOINFORMATICS",
+        "longUrl": "bioinformatics",
+        "shortUrl": "bioinformatics"
+      },
+      {
+        "courseId": 98,
+        "courseName": "PHARMACEUTICAL BIOTECHNOLOGY",
+        "longUrl": "pharmaceutical-biotechnology",
+        "shortUrl": "pharmaceutical-biotechnology"
+      },
+      {
+        "courseId": 88,
+        "courseName": "COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+        "longUrl": "computer-science-and-information-technology",
+        "shortUrl": "computer-science-and-information-technology"
+      },
+      {
+        "courseId": 457,
+        "courseName": "ELECTRONICS INSTRUMENTATION AND CONTROL ENGINEERING",
+        "longUrl": "electronics-instrumentation-and-control-engineering",
+        "shortUrl": "electronics-instrumentation-and-control-engineering"
+      },
+      {
+        "courseId": 34,
+        "courseName": "COMPUTER ENGINEERING",
+        "longUrl": "computer-engineering",
+        "shortUrl": "computer-engineering"
+      },
+      {
+        "courseId": 121,
+        "courseName": "MANUFACTURING ENGINEERING",
+        "longUrl": "manufacturing-engineering",
+        "shortUrl": "manufacturing-engineering"
+      },
+      {
+        "courseId": 43,
+        "courseName": "APPLIED ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+        "longUrl": "applied-electronics-and-instrumentation-engineering",
+        "shortUrl": "applied-electronics-and-instrumentation-engineering"
+      },
+      {
+        "courseId": 75,
+        "courseName": "AERONAUTICAL ENGINEERING",
+        "longUrl": "aeronautical-engineering",
+        "shortUrl": "aeronautical-engineering"
+      },
+      {
+        "courseId": 31,
+        "courseName": "AGRICULTURAL ENGINEERING",
+        "longUrl": "agricultural-engineering",
+        "shortUrl": "agricultural-engineering"
+      },
+      {
+        "courseId": 279,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS AND CYBER SECURITY INCLUDING BLOCK CHAIN TECHNOLOGY)",
+        "longUrl": "computer-science-and-engineering-internet-of-things-and-cyber-security-including-block-chain-technology",
+        "shortUrl": "computer-science-and-engineering-internet-of-things-and-cyber-security-including-block-chain-technology"
+      },
+      {
+        "courseId": 32,
+        "courseName": "INFORMATION TECHNOLOGY",
+        "longUrl": "information-technology",
+        "shortUrl": "information-technology"
+      },
+      {
+        "courseId": 52,
+        "courseName": "FOOD TECHNOLOGY AND MANAGEMENT",
+        "longUrl": "food-technology-and-management",
+        "shortUrl": "food-technology-and-management"
+      },
+      {
+        "courseId": 1297,
+        "courseName": "BIOENGINEERING",
+        "longUrl": "bioengineering",
+        "shortUrl": "bioengineering"
+      },
+      {
+        "courseId": 1300,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY AND BLOCKCHAIN TECHNOLOGY)",
+        "longUrl": "computer-science-and-engineering-cyber-security-and-blockchain-technology",
+        "shortUrl": "computer-science-and-engineering-cyber-security-and-blockchain-technology"
+      },
+      {
+        "courseId": 1299,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (IOT AND AUTOMATION)",
+        "longUrl": "computer-science-and-engineering-iot-and-automation",
+        "shortUrl": "computer-science-and-engineering-iot-and-automation"
+      },
+      {
+        "courseId": 1298,
+        "courseName": "ELECTRICAL AND ELECTRONICS ENGINEERING (SMART GRID AND ELECTRIC VEHICLES)",
+        "longUrl": "electrical-and-electronics-engineering-smart-grid-and-electric-vehicles",
+        "shortUrl": "electrical-and-electronics-engineering-smart-grid-and-electric-vehicles"
+      },
+      {
+        "courseId": 184,
+        "courseName": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+        "longUrl": "information-and-communication-technology",
+        "shortUrl": "information-and-communication-technology"
+      },
+      {
+        "courseId": 1301,
+        "courseName": "MECHANICAL ENGINEERING (DIGITAL MANUFACTURING)",
+        "longUrl": "mechanical-engineering-digital-manufacturing",
+        "shortUrl": "mechanical-engineering-digital-manufacturing"
+      },
+      {
+        "courseId": 552,
+        "courseName": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
+        "longUrl": "computer-science-and-engineering-artificial-intelligence-and-data-science",
+        "shortUrl": "computer-science-and-engineering-artificial-intelligence-and-data-science"
+      },
+      {
+        "courseId": 335,
+        "courseName": "COMPUTER SCIENCE AND SYSTEMS ENGINEERING",
+        "longUrl": "computer-science-and-systems-engineering",
+        "shortUrl": "computer-science-and-systems-engineering"
+      },
+      {
+        "courseId": 383,
+        "courseName": "ELECTRONICS AND ELECTRICAL ENGINEERING",
+        "longUrl": "electronics-and-electrical-engineering",
+        "shortUrl": "electronics-and-electrical-engineering"
+      },
+      {
+        "courseId": 41,
+        "courseName": "ELECTRICAL ENGINEERING",
+        "longUrl": "electrical-engineering",
+        "shortUrl": "electrical-engineering"
+      },
+      {
+        "courseId": 33,
+        "courseName": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING",
+        "longUrl": "electronics-and-telecommunications-engineering",
+        "shortUrl": "electronics-and-telecommunications-engineering"
+      },
+      {
+        "courseId": 708,
+        "courseName": "CHEMICAL TECHNOLOGY",
+        "longUrl": "chemical-technology",
+        "shortUrl": "chemical-technology"
+      }
+    ]
+  }
+]

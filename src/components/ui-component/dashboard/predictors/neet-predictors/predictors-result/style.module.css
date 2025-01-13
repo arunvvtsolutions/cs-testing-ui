@@ -1,0 +1,316 @@
+.collegeCard {
+  background-color: #fff;
+  border-radius: 16px;
+  border: 0.5px solid #f3f2f3;
+  padding: 20px !important;
+  margin-bottom: 10px;
+}
+
+.collegeName {
+  color: #1452a4;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.36px;
+  cursor: pointer;
+}
+
+.locationName {
+  color: #777477;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.52px;
+}
+
+.bottomBox {
+  display: flex;
+  align-items: center;
+}
+
+.chip {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.94px;
+  padding: 10px 16px 10px 16px;
+  border-radius: 31px;
+  height: auto;
+}
+
+.statusGoodChip {
+  background-color: #096041;
+  color: #fff;
+}
+
+.statusMediumChip {
+  background-color: #ffcd00;
+  color: #1b1b1b;
+}
+
+.statusLowChip {
+  background-color: #ff382b;
+  color: #fff;
+}
+
+.feesStructureChip {
+  background-color: #f3f2f3 !important;
+  color: #1b1b1b;
+  border: 0.5px solid #d4e0e8;
+  margin-left: auto;
+}
+
+.bookmarkChip {
+  background-color: #fff !important;
+  color: #1b1b1b;
+  border: 0.5px solid #d4e0e8;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.bookmarkChip:hover {
+  background-color: #cee9fa !important;
+}
+
+.selectedBookmarkChip {
+  background-color: #0e3f8d !important;
+  color: #ffffff;
+  border: 0.5px solid #0e3f8d;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.divider {
+  display: none;
+}
+
+.subTxtBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.feesStructureTxt {
+  display: none;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15px;
+  text-align: right;
+}
+
+.feesStructureBox {
+  display: none;
+}
+
+.collegeNameSelect {
+  display: flex !important;
+  align-items: center !important;
+  width: 100% !important;
+  color: #202124;
+  font-family: inherit;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.customplaceholder {
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  color: #202124 !important;
+}
+
+.loadMoreBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.loadMoreBtn {
+  background: #1b1b1b;
+  border-radius: 31px;
+  color: #fff;
+  padding: 10px 12px;
+  transition: 0.3s;
+}
+
+.loadMoreBtn:hover {
+  background: #1b1b1bdb !important;
+  transform: scale(0.98);
+}
+
+.loadMoreBtn:hover svg {
+  transform: rotate(60deg);
+  transition: 0.3s;
+
+}
+
+.loadMoreTxt {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  color: #fff;
+}
+
+.sideFilterBox {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.subFilterBtn {
+  position: fixed;
+  bottom: 5%;
+  border-radius: 20px;
+  background: #9fd0f5 !important;
+  display: inline-flex;
+  padding: 15px;
+  z-index: 100;
+}
+
+.subFilterBtn:hover {
+  background: #0b6049;
+}
+
+.subFilterBox {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.bannerGrid {
+  padding-left: 0 !important;
+}
+
+.title {
+  font-size: 28px !important;
+  font-weight: 600 !important;
+  font: inherit;
+  text-align: start;
+}
+
+.bannerWrapper {
+  background: #fff;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.heading {
+  font-family: inherit;
+  font-size: 33px;
+  font-weight: 500;
+  line-height: 48px;
+  color: #ffffff;
+  margin-bottom: 14px;
+}
+
+.headingWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.description {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ffffffcc;
+  max-width: 300px;
+}
+
+.imageWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rank {
+  font-weight: 500 !important;
+  color: #ffffff !important;
+}
+
+@media (max-width: 1199px) {
+  .bannerWrapper {
+    padding: 20px;
+    border-radius: 0px;
+  }
+}
+
+/* responsive */
+@media only screen and (max-width: 992px) {
+  .divider {
+    display: block;
+  }
+
+  .feesStructureTxt {
+    display: block;
+  }
+
+  .feesStructureChip {
+    display: none;
+  }
+
+  .locationName {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+
+  .collegeName {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0.005em;
+    text-align: left;
+  }
+
+  .horizontalLine {
+    margin: 0px 5px;
+  }
+
+  .feesStructureBox {
+    display: flex !important;
+  }
+
+  .heading {
+    font-size: 29px;
+    line-height: 44px;
+    margin-bottom: 16px;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .feesStructureBox {
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: end;
+  }
+
+  .horizontalLine {
+    display: none;
+  }
+
+  .chip {
+    font-size: 12px;
+    padding: 5px 0px;
+    border-radius: 31px;
+  }
+
+  .bottomBox {
+    justify-content: space-between;
+  }
+
+  .bookmarkChip {
+    margin-left: 0px;
+  }
+
+  .title {
+    font-size: 22px !important;
+  }
+}

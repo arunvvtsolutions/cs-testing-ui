@@ -1,0 +1,4 @@
+{
+    "labels": ["OBC", "SC", "EWS","GENERAL"],
+    "series": [15, 60, 10,15]
+}

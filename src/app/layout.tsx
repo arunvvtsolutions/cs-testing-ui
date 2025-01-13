@@ -1,8 +1,10 @@
 import { CSSProperties } from 'react';
 import Script from 'next/script';
 
+import ClientLayout from './clientLayout';
 
 // global styles
+import '../styles/globals.css';
 import Link from 'next/link';
 
 const GoogleTagStyles: CSSProperties = {
@@ -32,7 +34,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-       
         <Script
           id="googleTag"
           dangerouslySetInnerHTML={{
@@ -48,7 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body>
-      <noscript>
+        <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-NSKKPP2"
             height="0"
@@ -56,17 +57,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             style={GoogleTagStyles}
           ></iframe>
         </noscript>
-        {/* <ClientLayout>{children}</ClientLayout> */}
-        <h1>Hello</h1>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 1</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 2</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 3</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 4</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 5</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 6</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 7</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 8</Link>
-        <Link target="blank" href="https://www.w3schools.com/">Click here 9</Link>
+        <Link href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+          Click w3
+        </Link>
+        <ClientLayout>{children}</ClientLayout>
       </body>
     </html>
   );

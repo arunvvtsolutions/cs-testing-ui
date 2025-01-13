@@ -1,0 +1,20 @@
+[
+    {
+        "date":"22-04-24",
+        "time":"10am - 11am",
+        "link":"Meet-10:00am",
+        "status":"Upcoming"
+    },
+    {
+        "date":"23-04-24",
+        "time":"11am - 12pm",
+        "link":"Meet-11:00am",
+        "status":"Completed"
+    },
+    {
+        "date":"22-04-24",
+        "time":"12pm - 1pm",
+        "link":"Meet-12:00am",
+        "status":"Upcoming"
+    }
+]

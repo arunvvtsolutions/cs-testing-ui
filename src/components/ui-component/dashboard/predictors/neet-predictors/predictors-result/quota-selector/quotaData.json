@@ -1,0 +1,90 @@
+[
+  {
+    "quotaId": 0,
+    "quotaName": "All Quota"
+  },
+  {
+    "quotaId": 14,
+    "quotaName": "Aligarh Muslim University (AMU) Quota"
+  },
+  {
+    "quotaId": 4,
+    "quotaName": "All India"
+  },
+  {
+    "quotaId": 23,
+    "quotaName": "Christian Minority Quota"
+  },
+  {
+    "quotaId": 5,
+    "quotaName": "Deemed/Paid Seats Quota"
+  },
+  {
+    "quotaId": 7,
+    "quotaName": "Delhi NCR"
+  },
+  {
+    "quotaId": 13,
+    "quotaName": "Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) Quota"
+  },
+  {
+    "quotaId": 8,
+    "quotaName": "Delhi University Quota"
+  },
+  {
+    "quotaId": 6,
+    "quotaName": "Employees State Insurance Scheme(ESI)"
+  },
+  {
+    "quotaId": 12,
+    "quotaName": "Foreign Country Quota"
+  },
+  {
+    "quotaId": 2,
+    "quotaName": "Internal-Puducherry UT Domicile"
+  },
+  {
+    "quotaId": 3,
+    "quotaName": "IP University Quota"
+  },
+  {
+    "quotaId": 22,
+    "quotaName": "Jain Minority Quota"
+  },
+  {
+    "quotaId": 18,
+    "quotaName": "Jamia Internal Quota"
+  },
+  {
+    "quotaId": 20,
+    "quotaName": "Jamia Millia Islamia Dental(JMI) Quota"
+  },
+  {
+    "quotaId": 19,
+    "quotaName": "Jamia Muslim Quota"
+  },
+  {
+    "quotaId": 21,
+    "quotaName": "Jamia Muslim Women Quota"
+  },
+  {
+    "quotaId": 9,
+    "quotaName": "Muslim Minority Quota"
+  },
+  {
+    "quotaId": 17,
+    "quotaName": "Muslim Quota"
+  },
+  {
+    "quotaId": 15,
+    "quotaName": "Muslim Women Quota"
+  },
+  {
+    "quotaId": 11,
+    "quotaName": "Non Resident Indian"
+  },
+  {
+    "quotaId": 1,
+    "quotaName": "Open Seat Quota"
+  }
+]

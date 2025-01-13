@@ -1,0 +1,10 @@
+
+.customeLabel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .customeLabelElement {
+    margin-left: 5px;
+  }

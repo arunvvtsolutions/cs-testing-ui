@@ -1,0 +1,149 @@
+.courseFeesHead {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.courseFeesTitle {
+  color: #202124;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.courseGrid {
+  display: flex;
+  border-radius: 8px;
+  background: #fff;
+  padding: 25px;
+  align-items: center;
+}
+
+.courseGridText {
+  color: #202124;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 3px;
+  padding-left: 8px;
+}
+
+.courseGridSubText {
+  color: rgba(32, 33, 36, 0.7);
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 8px;
+}
+
+.viewLink {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 17px;
+  border-radius: 31px;
+  background: rgba(17, 81, 156, 0.05);
+  max-width: 70px;
+  color: #1452A4;
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  cursor: pointer;
+  margin: auto;
+  user-select: none;
+  transition: 0.3s;
+}
+
+.viewLink:hover {
+  background: #1452A4;
+  color: #ffffff;
+}
+
+.linkTxt {
+  color: #1452A4;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.linkTxt:hover {
+  color: #091e44;
+}
+
+.courseGridCols {
+  flex-basis: 33%;
+  max-width: 33%;
+  display: block;
+}
+
+.mobileViewAllBtn {
+  border-radius: 8px;
+  background: #0B6049;
+  padding: 12px 16px;
+  width: 100%;
+  display: none;
+  text-align: center;
+  color: #fff;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-top: 30px;
+}
+
+.mobileViewAllBtn:hover {
+  background: #364152;
+}
+
+.arrowForwardIcon {
+  vertical-align: middle;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-bottom: 3px;
+}
+
+/* media query for 960px*/
+@media (max-width: 960px) {
+  .mobileViewAllBtn {
+    display: block;
+  }
+
+  .linkTxt {
+    display: none;
+  }
+
+  .viewLink {
+    margin-right: 0;
+  }
+
+  .courseGrid {
+    padding: 15px 12px;
+    gap: 10px;
+  }
+
+  .miniLink {
+    display: none;
+  }
+}
+
+@media(max-width:580px) {
+  .courseGridText {
+    font-size: 14px;
+    padding-left: 0px;
+  }
+
+  .courseGridSubText {
+    font-size: 12px;
+    padding-left: 0px;
+  }
+}

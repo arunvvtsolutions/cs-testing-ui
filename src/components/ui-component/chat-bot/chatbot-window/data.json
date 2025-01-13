@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Which IIT is best for placement?",
+    "answer": "<div style=\"line-height: 30px;\"><h1 style=\"font-size: 20px; margin-bottom: 10px;\">Top IITs in India 2023: Rankings, Admission, Courses, Fees, Placements</h1><p style=\"font-size: 14px; color: #333; margin-bottom: 10px; line-height: 18px;\">As IIT Madras has a good perception among recruiters and the public and trains students at its incubation center, it can place a good number of students at various national and international companies. So, let us see the interesting details of various courses for the last three years.</p><h2 style=\"font-size: 18px; margin-bottom: 10px;\">Courses at IIT Madras</h2></div>",
+    "chart": {
+      "year": ["2023", "2023", "2023", "2023"],
+      "series": [{ "name": "Overall Placement", "data": [10, 20, 40, 100] }]
+    },
+    "answerDescription": "<ul>\r\n    <li>IIT Delhi Overall Placement <B>62.08%</B></li>\r\n    <li>IIT Bombay Overall Placement <B>68.70%</B></li>\r\n    <li>IIT Kanpur Overall Placement <B>60.00%</B></li>\r\n    <li>IIT Madras Overall Placement <B>97.00%<B/></li>\r\n </ul>\r\n"
+  },
+  {
+    "id": 2,
+    "question": "What are the popular courses at IIT Bombay?",
+    "answer": "<div style=\"line-height: 20px;\"><h1 style=\"font-size: 20px; margin-bottom: 10px;\">Top IITs in India 2023: Rankings, Admission, Courses, Fees, Placements</h1><p style=\"font-size: 14px; line-height: 18px;\">At IIT Bombay, popular courses include Computer Science, Electrical Engineering, Mechanical Engineering, etc. These courses are known for their comprehensive curriculum and excellent faculty.</p><h2 style=\"font-size: 18px; margin-bottom: 10px;\">Computer Science Engineering at IIT Bombay</h2><p><strong style=\"color: #880e4f; margin-bottom: 5px;\">Rankings:</strong> IIT Bombay's Computer Science program is consistently ranked among the top in the country.</p><p><strong style=\"color: #880e4f; margin-bottom: 5px;\">Admission:</strong> Admission to Computer Science Engineering is highly competitive, with rigorous entrance exams.</p><p><strong style=\"color: #880e4f; margin-bottom: 5px;\">Fees:</strong> The fees for Computer Science Engineering may vary, and scholarships are available for eligible students.</p><p><strong style=\"color: #880e4f; margin-bottom: 5px;\">Placements:</strong> Graduates from this program have secured placements in leading tech companies worldwide.</p></div>",
+    "chart": {
+      "year": ["2023", "2023", "2023", "2023"],
+      "series": [{ "name": "Overall Placement", "data": [10, 20, 40, 100] }]
+    },
+    "answerDescription": "<ul>\r\n    <li>IIT Delhi Overall Placement <B>62.08%</B></li>\r\n    <li>IIT Bombay Overall Placement <B>68.70%</B></li>\r\n    <li>IIT Kanpur Overall Placement <B>60.00%</B></li>\r\n    <li>IIT Madras Overall Placement <B>97.00%<B/></li>\r\n </ul>\r\n"
+  },
+  {
+    "id": 3,
+    "question": "Tell me about the research opportunities at IIT Delhi.",
+    "answer": "<div style=\"line-height: 30px;\"><h1 style=\"font-size: 20px; margin-bottom: 10px;\">Top IITs in India 2023: Rankings, Admission, Courses, Fees, Placements</h1><p style=\"font-size: 14px; line-height: 18px;\">IIT Delhi offers extensive research opportunities across various disciplines. Students and faculty engage in cutting-edge research projects, contributing to advancements in science and technology.</p><p style=\"margin-bottom: 10px;\">Research Areas at IIT Delhi</p><ul><li><strong style=\"color: #880e4f; margin-bottom: 5px;\">Rankings:</strong> IIT Delhi is renowned for its research output and is consistently ranked among the top research institutions.</li><li><strong style=\"color: #880e4f; margin-bottom: 5px;\">Admission:</strong> Research admissions are open to candidates with a strong academic background and a passion for research.</li><li><strong style=\"color: #880e4f; margin-bottom: 5px;\">Fees:</strong> Research scholars may receive stipends or financial support, depending on the program and funding available.</li><li><strong style=\"color: #880e4f; margin-bottom: 5px;\">Placements:</strong> Graduates from IIT Delhi's research programs have excelled in academia, industry, and research organizations globally.</li></ul></div>",
+    "chart": {
+      "year": ["2023", "2023", "2023", "2023"],
+      "series": [{ "name": "Overall Placement", "data": [10, 20, 40, 100] }]
+    },
+    "answerDescription": "<ul>\r\n    <li>IIT Delhi Overall Placement <B>62.08%</B></li>\r\n    <li>IIT Bombay Overall Placement <B>68.70%</B></li>\r\n    <li>IIT Kanpur Overall Placement <B>60.00%</B></li>\r\n    <li>IIT Madras Overall Placement <B>97.00%<B/></li>\r\n </ul>\r\n"
+  }
+]

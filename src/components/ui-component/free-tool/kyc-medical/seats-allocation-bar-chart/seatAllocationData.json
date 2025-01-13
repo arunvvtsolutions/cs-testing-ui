@@ -1,0 +1,15 @@
+{
+  "year": 2022,
+  "seatAllocationData": {
+    "categories": ["1", "2", "Mop Up"],
+    "series": [{
+        "name": "Allotted List",
+        "data": [132, 3, 2]
+      },
+      {
+        "name": "Admitted List",
+        "data": [129, 3]
+      }
+    ]
+  }
+}

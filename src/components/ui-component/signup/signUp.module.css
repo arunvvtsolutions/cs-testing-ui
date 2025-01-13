@@ -1,0 +1,213 @@
+.customplaceholder {
+  color: rgba(34, 40, 49, 0.7);
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  background: none !important;
+}
+
+.signUpContainer {
+  max-width: 400px;
+  margin: auto;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.logo {
+  margin-bottom: 30px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.heading {
+  color: #222831;
+  font-family: inherit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.signInLink {
+  color: #222831;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration-line: underline;
+  margin-left: 4px;
+}
+
+.headingWraper {
+  margin-bottom: 20px;
+}
+
+.linkWraper {
+  margin-bottom: 35px;
+}
+
+.formLabel {
+  color: #222831;
+  font-family: inherit;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.formWraper {
+  margin-bottom: 20px;
+}
+
+.continueBtn {
+  padding: 14px !important;
+  border-radius: 4px;
+  border: 1px solid #222831;
+  background: #222831;
+  color: #fff;
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.continueBtn:hover {
+  background: #222831;
+}
+
+.categoryItem {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.categoryWraper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.gooleSignInBtn {
+  border-radius: 4px;
+  border: 1px solid #f5f5f7;
+  background: #f5f5f7;
+  width: 100%;
+  padding: 14px !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnText {
+  color: #000;
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 10px;
+}
+
+.BtnContainer {
+  margin-bottom: 20px;
+}
+
+.signInWraper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.accountText {
+  color: #222831;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin-right: 4px;
+}
+
+.categoryText {
+  color: rgba(34, 40, 49, 0.7);
+  font-family: inherit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  cursor: pointer;
+}
+
+.errorText {
+  color: red;
+  font-size: 16px;
+}
+
+.custom-input {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 14px !important;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px !important;
+}
+
+.custom-fieldset {
+  border: none;
+}
+
+/* All media query */
+
+@media (max-width: 992px) {
+  .logo {
+    display: block;
+    margin-bottom: 20px;
+  }
+
+  .headingWraper {
+    margin-bottom: 12px;
+  }
+
+  .linkWraper {
+    margin-bottom: 30px;
+  }
+
+  .formWraper {
+    margin-bottom: 16px;
+  }
+
+  .BtnContainer {
+    margin-bottom: 16px;
+  }
+
+  .continueBtn {
+    padding: 12px;
+  }
+
+  .signUpContainer {
+    max-width: 382px;
+  }
+
+  .gooleSignInBtn {
+    padding: 12px;
+  }
+
+  .custom-input {
+    padding: 12px !important;
+  }
+
+  .continueBtn {
+    padding: 12px !important;
+    height: 48px;
+  }
+
+  .gooleSignInBtn {
+    padding: 12px !important;
+    height: 48px;
+  }
+
+  .categoryWraper {
+    margin-bottom: 20px;
+  }
+}

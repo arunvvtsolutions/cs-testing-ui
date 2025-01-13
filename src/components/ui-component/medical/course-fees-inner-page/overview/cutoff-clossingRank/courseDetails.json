@@ -1,0 +1,17 @@
+{
+  "year" : 2022,
+  "closingRank": [
+    {
+      "round": "Round 1",
+      "value": 848798
+    },
+    {
+      "round": "Round 2",
+      "value": 880909
+    },
+    {
+      "round": "Mop Up Round",
+      "value": 864982
+    }
+  ]
+}

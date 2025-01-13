@@ -1,0 +1,47 @@
+import * as React from 'react';
+// next imports
+// M-UI
+import MuiLink from '@mui/material/Link';
+import { styled } from '@mui/material/styles';
+// types
+import clsx from 'clsx';
+import { usePathname } from 'next/navigation';
+
+import { LinkProps } from './types/link';
+
+// other
+import NextLinkComposed from 'NextLinkComposed';
+
+// =============================|| Custom Link Component ||============================= //
+
+const Anchor = styled('a')({});
+
+const Link = React.forwardRef<HTMLAnchorElement, LinkProps>(function Link(
+  { activeClassName = 'active', as: linkAs, className: classNameProps, href, noLinkStyle, role, ...other },
+  ref
+) {
+  const router = usePathname();
+
+  const pathname = typeof href === 'string' ? href : href.pathname;
+  const className = clsx(classNameProps, {
+    [activeClassName]: router === pathname && activeClassName
+  });
+
+  const isExternal = typeof href === 'string' && (href.indexOf('http') === 0 || href.indexOf('mailto:') === 0);
+
+  if (isExternal) {
+    if (noLinkStyle) {
+      return <Anchor className={className} href={href} ref={ref} {...other} />;
+    }
+
+    return <MuiLink className={className} href={href} ref={ref} {...other} />;
+  }
+
+  if (noLinkStyle) {
+    return <NextLinkComposed className={className} ref={ref} to={href} {...other} />;
+  }
+
+  return <MuiLink component={NextLinkComposed} linkAs={linkAs} className={className} ref={ref} to={href} {...other} />;
+});
+
+export default Link;

@@ -1,0 +1,91 @@
+{
+    "shortName": "IIT Madras",
+    "examMode": [
+      {
+        "id": 28,
+        "title": "JEE Main Exam 2023",
+        "examMode": 1,
+        "startDate": 1671042600,
+        "url": "jeemains",
+        "examLinks": [
+          "Admit Card",
+          "Exam Pattern",
+          "Cutoff",
+          "Answer Key",
+          "Syllabus",
+          "Result",
+          "Application",
+          "FAQ"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "JEE Advanced 2023",
+        "examMode": 1,
+        "startDate": 1671042600,
+        "url": "jeeadvance",
+        "examLinks": [
+          "Admit Card",
+          "Exam Pattern",
+          "Cutoff",
+          "Answer Key",
+          "Syllabus",
+          "Result",
+          "Application",
+          "FAQ"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "JEE Advanced 2023",
+        "examMode": 1,
+        "startDate": 1671042600,
+        "url": "jeeadvance",
+        "examLinks": [
+          "Admit Card",
+          "Exam Pattern",
+          "Cutoff",
+          "Answer Key",
+          "Syllabus",
+          "Result",
+          "Application",
+          "FAQ"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "JEE Advanced 2023",
+        "examMode": 1,
+        "startDate": 1671042600,
+        "url": "jeeadvance",
+        "examLinks": [
+          "Admit Card",
+          "Exam Pattern",
+          "Cutoff",
+          "Answer Key",
+          "Syllabus",
+          "Result",
+          "Application",
+          "FAQ"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "JEE Advanced 2023",
+        "examMode": 1,
+        "startDate": 1671042600,
+        "url": "jeeadvance",
+        "examLinks": [
+          "Admit Card",
+          "Exam Pattern",
+          "Cutoff",
+          "Answer Key",
+          "Syllabus",
+          "Result",
+          "Application",
+          "FAQ"
+        ]
+      }
+    ]
+  }
+  

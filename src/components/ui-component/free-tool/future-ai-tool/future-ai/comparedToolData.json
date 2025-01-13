@@ -1,0 +1,398 @@
+{
+  "collegeData": [
+    {
+      "id": 655,
+      "collegeName": "Maharishi Markandeshwar University",
+      "shortName": "MMU Ambala"
+    },
+    {
+      "id": 1,
+      "collegeName": "Indian Institute of Technology Madras",
+      "shortName": "IIT Madras"
+    },
+    {
+      "id": 3,
+      "collegeName": "Indian Institute of Technology Bombay",
+      "shortName": "IIT Bombay"
+    },
+    {
+      "id": 17,
+      "collegeName": "Indian Institute of Technology Bhubaneswar",
+      "shortName": "IIT Bhubaneswar"
+    },
+    {
+      "id": 15,
+      "collegeName": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+      "shortName": "IITISM Dhanbad"
+    },
+    {
+      "id": 777,
+      "collegeName": "Indian Institute of Technology Guwahati",
+      "shortName": "IIT Guwahati"
+    },
+    {
+      "id": 13,
+      "collegeName": "Indian Institute of Technology Indore",
+      "shortName": "IIT Indore"
+    },
+    {
+      "id": 50,
+      "collegeName": "Indian Institute of Technology Jodhpur",
+      "shortName": "IIT Jodhpur"
+    },
+    {
+      "id": 5,
+      "collegeName": "Indian Institute of Technology Kanpur",
+      "shortName": "IIT Kanpur"
+    },
+    {
+      "id": 22,
+      "collegeName": "Indian Institute of Technology Patna",
+      "shortName": "IIT Patna"
+    },
+    {
+      "id": 6,
+      "collegeName": "Indian Institute of Technology Roorkee",
+      "shortName": "IIT Roorkee"
+    },
+    {
+      "id": 11,
+      "collegeName": "Indian Institute of Technology (Banaras Hindu University) Varanasi",
+      "shortName": "IITBHU Varanasi"
+    },
+    {
+      "id": 20,
+      "collegeName": "Indian Institute of Technology Mandi",
+      "shortName": "IIT Mandi"
+    },
+    {
+      "id": 2,
+      "collegeName": "Indian Institute of Technology Delhi",
+      "shortName": "IIT Delhi"
+    },
+    {
+      "id": 784,
+      "collegeName": "Indian Institute of Technology Palakkad",
+      "shortName": "IIT Palakkad"
+    },
+    {
+      "id": 29,
+      "collegeName": "Indian Institute of Technology Ropar",
+      "shortName": "IIT Ropar"
+    },
+    {
+      "id": 785,
+      "collegeName": "Indian Institute of Technology Tirupati",
+      "shortName": "IIT Tirupati"
+    },
+    {
+      "id": 8,
+      "collegeName": "Indian Institute of Technology Hyderabad",
+      "shortName": "IIT Hyderabad"
+    },
+    {
+      "id": 10,
+      "collegeName": "National Institute of Technology Tiruchirappalli",
+      "shortName": "NIT Trichy"
+    },
+    {
+      "id": 21,
+      "collegeName": "National Institute of Technology Karnataka",
+      "shortName": "NIT Karnataka"
+    },
+    {
+      "id": 14,
+      "collegeName": "Jadavpur University",
+      "shortName": "JU Kolkata"
+    },
+    {
+      "id": 9,
+      "collegeName": "Anna University",
+      "shortName": "Anna University"
+    },
+    {
+      "id": 130,
+      "collegeName": "National Institute of Technology Jamshedpur",
+      "shortName": "NIT Jamshedpur"
+    },
+    {
+      "id": 663,
+      "collegeName": "National Institute of Technology Srinagar",
+      "shortName": "NIT Srinagar"
+    },
+    {
+      "id": 70,
+      "collegeName": "National Institute of Technology Agartala",
+      "shortName": "NIT Agartala"
+    },
+    {
+      "id": 42,
+      "collegeName": "Motilal Nehru National Institute of Technology",
+      "shortName": "MNNIT Uttar Pradesh"
+    },
+    {
+      "id": 642,
+      "collegeName": "National Institute of Technology Arunachal Pradesh",
+      "shortName": "NIT Arunachal Pradesh"
+    },
+    {
+      "id": 62,
+      "collegeName": "Maulana Azad National Institute of Technology",
+      "shortName": "MANIT Madhya Pradesh"
+    },
+    {
+      "id": 28,
+      "collegeName": "National Institute of Technology Calicut",
+      "shortName": "NIT Calicut"
+    }
+  ],
+  "course": [
+    {
+      "courseId": 16,
+      "courseName": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 655
+    },
+    {
+      "courseId": 16,
+      "courseName": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 1
+    },
+    {
+      "courseId": 16,
+      "courseName": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 3
+    },
+    {
+      "courseId": 16,
+      "courseName": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 17
+    },
+    {
+      "courseId": 16,
+      "courseName": "Aerospace Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 1
+    },
+
+    {
+      "courseId": 38,
+      "courseName": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 655
+    },
+    {
+      "courseId": 38,
+      "courseName": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 1
+    },
+    {
+      "courseId": 38,
+      "courseName": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 3
+    },
+    {
+      "courseId": 38,
+      "courseName": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 17
+    },
+    {
+      "courseId": 38,
+      "courseName": "Aerospace Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 777
+    },
+
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 42
+    },
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 642
+    },
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 642
+    },
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 62
+    },
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 62
+    },
+    {
+      "courseId": 74,
+      "courseName": "Biological Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))",
+      "collegeId": 28
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 10
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 21
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 14
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 14
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 9
+    },
+    {
+      "courseId": 75,
+      "courseName": "Biological Sciences (5 Years, Bachelor of Science and Master of Science (Dual Degree))",
+      "collegeId": 130
+    },
+
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 13
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 50
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 5
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 22
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 6
+    },
+
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 11
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 20
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 2
+    },
+    {
+      "courseId": 18,
+      "courseName": "Chemical Engineering (4 Years, Bachelor of Technology)",
+      "collegeId": 784
+    }
+  ],
+  "caste": [
+    {
+      "courseId": 16,
+      "casteId": 1,
+      "casteName": "OPEN",
+      "collegeId": 1
+    },
+    {
+      "courseId": 38,
+      "casteId": 1,
+      "casteName": "OPEN",
+      "collegeId": 1
+    },
+    {
+      "courseId": 74,
+      "casteId": 1,
+      "casteName": "OPEN",
+      "collegeId": 15
+    },
+    {
+      "courseId": 75,
+      "casteId": 1,
+      "casteName": "OPEN",
+      "collegeId": 655
+    },
+
+    {
+      "courseId": 18,
+      "casteId": 5,
+      "casteName": "OPEN (PwD)",
+      "collegeId": 17
+    },
+    {
+      "courseId": 75,
+      "casteId": 5,
+      "casteName": "OPEN (PwD)",
+      "collegeId": 17
+    },
+    {
+      "courseId": 74,
+      "casteId": 5,
+      "casteName": "OPEN (PwD)",
+      "collegeId": 3
+    },
+    {
+      "courseId": 38,
+      "casteId": 5,
+      "casteName": "OPEN (PwD)",
+      "collegeId": 777
+    },
+
+    {
+      "courseId": 16,
+      "casteId": 12,
+      "casteName": "EWS",
+      "collegeId": 655
+    },
+    {
+      "courseId": 74,
+      "casteId": 2,
+      "casteName": "OBC-NCL",
+      "collegeId": 777
+    },
+    {
+      "courseId": 38,
+      "casteId": 3,
+      "casteName": "SC",
+      "collegeId": 17
+    },
+    {
+      "courseId": 38,
+      "casteId": 4,
+      "casteName": "ST",
+      "collegeId": 3
+    },
+    {
+      "courseId": 16,
+      "casteId": 6,
+      "casteName": "OBC-NCL (PwD)",
+      "collegeId": 1
+    },
+    {
+      "courseId": 16,
+      "casteId": 8,
+      "casteName": "ST (PwD)",
+      "collegeId": 655
+    }
+  ]
+}

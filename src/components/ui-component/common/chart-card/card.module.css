@@ -1,0 +1,65 @@
+.heading {
+  color: #202124;
+  font-family: inherit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.chartHeading {
+  color: #202124;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.graphContainer {
+  background: #fbfbfb;
+  border-radius: 8px;
+  padding: 20px 20px 30px 20px;
+}
+
+.customTooltip {
+  padding: 5px 6px;
+  color: #FFF;
+  font-family: inherit;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.customTooltipTitle {
+  color: #FFF;
+  font-family: inherit;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.customTooltipValue {
+  color: #FFF;
+  font-family: inherit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+@media (max-width: 800px) {
+  .heading {
+    font-size: 16px;
+    font-weight: 400;
+  }
+
+  .graphContainer {
+    padding: 30px 15px;
+    margin-top: 26px;
+  }
+}
