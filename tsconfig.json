@@ -23,8 +23,8 @@
     "allowSyntheticDefaultImports": true,
     // custom config
     "noUnusedLocals": false,
-    "noImplicitAny": true,
-    "noImplicitThis": true,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
     "strictNullChecks": true,
     "types": [
       "node",

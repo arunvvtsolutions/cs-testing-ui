@@ -5,6 +5,7 @@ import ClientLayout from './clientLayout';
 
 // global styles
 import '../styles/globals.css';
+import Link from 'next/link';
 
 const GoogleTagStyles: CSSProperties = {
   display: 'none',
@@ -56,7 +57,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             style={GoogleTagStyles}
           ></iframe>
         </noscript>
-        <ClientLayout>{children}</ClientLayout>
+        {/* <ClientLayout>{children}</ClientLayout> */}
+        <h1>Hello</h1>
+        <Link target="blank" href="https://www.w3schools.com/">Click here</Link>
       </body>
     </html>
   );
