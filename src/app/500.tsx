@@ -3,14 +3,6 @@ import { useTheme, styled } from '@mui/material/styles';
 import { Button, Card, CardContent, CardMedia, Grid, Typography } from '@mui/material';
 import HomeTwoToneIcon from '@mui/icons-material/HomeTwoTone';
 
-import Link from 'Link';
-// project imports
-import LAYOUT from 'constant';
-import Layout from 'layout';
-import Page from 'components/ui-component/Page';
-import { DASHBOARD_PATH } from 'config';
-import AnimateButton from 'ui-component/extended/AnimateButton';
-import { gridSpacing } from 'store/constant';
 // assets
 
 const imageBackground = '/assets/images/maintenance/img-error-bg.svg';
@@ -69,54 +61,12 @@ const Error = () => {
   const theme = useTheme();
 
   return (
-    <Page title="Error 500">
-      <ErrorCard>
-        <CardContent>
-          <Grid container justifyContent="center" spacing={gridSpacing}>
-            <Grid item xs={12}>
-              <CardMediaWrapper>
-                <CardMedia
-                  component="img"
-                  image={theme.palette.mode === 'dark' ? imageDarkBackground : imageBackground}
-                  title="Slider5 image"
-                />
-                <CardMediaBlock src={imageText} title="Slider 1 image" />
-                <CardMediaBlue src={imageBlue} title="Slider 2 image" />
-                <CardMediaPurple src={imagePurple} title="Slider 3 image" />
-              </CardMediaWrapper>
-            </Grid>
-            <Grid item xs={12}>
-              <ErrorWrapper>
-                <Grid container spacing={gridSpacing}>
-                  <Grid item xs={12}>
-                    <Typography variant="h1" component="div">
-                      Something is wrong
-                    </Typography>
-                  </Grid>
-                  <Grid item xs={12}>
-                    <Typography variant="body2">
-                      The page you are looking was moved, removed, renamed, or might never exist!{' '}
-                    </Typography>
-                  </Grid>
-                  <Grid item xs={12}>
-                    <AnimateButton>
-                      <Button variant="contained" size="large" component={Link} href={DASHBOARD_PATH}>
-                        <HomeTwoToneIcon sx={{ fontSize: '1.3rem', mr: 0.75 }} /> Home
-                      </Button>
-                    </AnimateButton>
-                  </Grid>
-                </Grid>
-              </ErrorWrapper>
-            </Grid>
-          </Grid>
-        </CardContent>
-      </ErrorCard>
-    </Page>
+    <h1>hello</h1>
   );
 };
 
 Error.getLayout = function getLayout(page: ReactElement) {
-  return <Layout variant={LAYOUT.minimal}>{page}</Layout>;
+  return <h2>error</h2>;
 };
 
 export default Error;
