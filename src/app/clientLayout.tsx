@@ -12,7 +12,6 @@ import Snackbar from "ui-component/extended/Snackbar";
 import { store } from "store";
 import NavigationScroll from "layout/NavigationScroll";
 import { ConfigProvider } from "contexts/ConfigContext";
-import { JWTProvider as AuthProvider } from "contexts/JWTContext";
 import Link from "next/link";
 
 const MyApp = ({ children }: { children: ReactNode }) => {
@@ -23,7 +22,7 @@ const MyApp = ({ children }: { children: ReactNode }) => {
         <Locales>
           <NavigationScroll>
             {/* <Layout> */}
-            <AuthProvider>
+            {/* <AuthProvider> */}
               {/* <Notistack> */}
               <>
                 <h1>Hello</h1>
@@ -32,7 +31,7 @@ const MyApp = ({ children }: { children: ReactNode }) => {
                 <Snackbar />
               </>
               {/* </Notistack> */}
-            </AuthProvider>
+            {/* </AuthProvider> */}
             {/* </Layout> */}
           </NavigationScroll>
         </Locales>
