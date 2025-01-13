@@ -10,9 +10,9 @@ import Snackbar from 'ui-component/extended/Snackbar';
 // import Notistack from 'ui-component/third-party/Notistack';
 import ThemeCustomization from 'themes';
 import { store } from 'store';
-import NavigationScroll from 'layout/NavigationScroll';
+// import NavigationScroll from 'layout/NavigationScroll';
 // import { ConfigProvider } from 'contexts/ConfigContext';
-import { JWTProvider as AuthProvider } from 'contexts/JWTContext';
+// import { JWTProvider as AuthProvider } from 'contexts/JWTContext';
 import Link from 'next/link';
 import SamplePage from './sample-page/page';
 
@@ -22,9 +22,9 @@ const MyApp = ({ children }: { children: ReactNode }) => {
       {/* <ConfigProvider> */}
         <ThemeCustomization>
           <Locales>
-            <NavigationScroll>
+            {/* <NavigationScroll> */}
               {/* <Layout> */}
-              <AuthProvider>
+              {/* <AuthProvider> */}
                 {/* <Notistack> */}
                 <>
                  <SamplePage />
@@ -33,9 +33,9 @@ const MyApp = ({ children }: { children: ReactNode }) => {
                   <Snackbar />
                 </>
                 {/* </Notistack> */}
-              </AuthProvider>
+              {/* </AuthProvider> */}
               {/* </Layout> */}
-            </NavigationScroll>
+            {/* </NavigationScroll> */}
           </Locales>
         </ThemeCustomization>
       {/* </ConfigProvider> */}
