@@ -5,14 +5,14 @@ import { ReactNode } from 'react';
 import { Provider } from 'react-redux';
 
 // project-import
-import Locales from 'ui-component/Locales';
+// import Locales from 'ui-component/Locales';
 import Snackbar from 'ui-component/extended/Snackbar';
 // import Notistack from 'ui-component/third-party/Notistack';
 import ThemeCustomization from 'themes';
 import { store } from 'store';
 // import NavigationScroll from 'layout/NavigationScroll';
 // import { ConfigProvider } from 'contexts/ConfigContext';
-// import { JWTProvider as AuthProvider } from 'contexts/JWTContext';
+import { JWTProvider as AuthProvider } from 'contexts/JWTContext';
 import Link from 'next/link';
 import SamplePage from './sample-page/page';
 
@@ -21,10 +21,10 @@ const MyApp = ({ children }: { children: ReactNode }) => {
     <Provider store={store}>
       {/* <ConfigProvider> */}
         <ThemeCustomization>
-          <Locales>
+          {/* <Locales> */}
             {/* <NavigationScroll> */}
               {/* <Layout> */}
-              {/* <AuthProvider> */}
+              <AuthProvider>
                 {/* <Notistack> */}
                 <>
                  <SamplePage />
@@ -33,10 +33,10 @@ const MyApp = ({ children }: { children: ReactNode }) => {
                   <Snackbar />
                 </>
                 {/* </Notistack> */}
-              {/* </AuthProvider> */}
+              </AuthProvider>
               {/* </Layout> */}
             {/* </NavigationScroll> */}
-          </Locales>
+          {/* </Locales> */}
         </ThemeCustomization>
       {/* </ConfigProvider> */}
     </Provider>
