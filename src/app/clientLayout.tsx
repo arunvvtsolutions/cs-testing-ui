@@ -14,6 +14,7 @@ import NavigationScroll from 'layout/NavigationScroll';
 // import { ConfigProvider } from 'contexts/ConfigContext';
 import { JWTProvider as AuthProvider } from 'contexts/JWTContext';
 import Link from 'next/link';
+import SamplePage from './sample-page/page';
 
 const MyApp = ({ children }: { children: ReactNode }) => {
   return (
@@ -26,9 +27,8 @@ const MyApp = ({ children }: { children: ReactNode }) => {
               <AuthProvider>
                 {/* <Notistack> */}
                 <>
-          
-                <Link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target='blank'>Click w3</Link>
-
+                 <SamplePage />
+                <Link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target='blank'>Touch me</Link>
                   {children}
                   <Snackbar />
                 </>
