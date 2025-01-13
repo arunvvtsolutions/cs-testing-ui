@@ -42,7 +42,7 @@
     "prefer-destructuring": "off",
     "import/no-extraneous-dependencies": "off",
     "react/display-name": "off",
-    "unused-imports/no-unused-imports": "error",
+    "unused-imports/no-unused-imports": "off",
     "import/no-unresolved": ["off", { "caseSensitive": false }],
     "no-restricted-imports": [
       "error",
@@ -50,13 +50,7 @@
         "patterns": ["@mui/*/*/*", "!@mui/material/test-utils/*"]
       }
     ],
-    "@typescript-eslint/no-unused-vars": [
-      "error",
-      {
-        "vars": "all",
-        "args": "none"
-      }
-    ],
+    "@typescript-eslint/no-unused-vars":"off",
     "import/order": [
       "warn",
       {

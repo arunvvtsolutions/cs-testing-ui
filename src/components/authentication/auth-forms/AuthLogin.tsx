@@ -172,7 +172,7 @@ const JWTLogin = ({ loginProp, ...others }: { loginProp?: number }) => {
 
           {errors.submit && (
             <Box sx={{ mt: 3 }}>
-              <FormHelperText error>{errors.submit}</FormHelperText>
+              <FormHelperText error>s</FormHelperText>
             </Box>
           )}
           <Box sx={{ mt: 2 }}>

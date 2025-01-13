@@ -259,7 +259,7 @@ const JWTRegister = ({ ...others }) => {
             </Grid>
             {errors.submit && (
               <Box sx={{ mt: 3 }}>
-                <FormHelperText error>{errors.submit}</FormHelperText>
+                <FormHelperText error>s</FormHelperText>
               </Box>
             )}
 

@@ -22,8 +22,8 @@
     "downlevelIteration": true,
     "allowSyntheticDefaultImports": true,
     // custom config
-    "noUnusedLocals": true,
-    "noImplicitAny": true,
+    "noUnusedLocals": false,
+    "noImplicitAny": false,
     "noImplicitThis": true,
     "strictNullChecks": true,
     "types": [

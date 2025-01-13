@@ -1,11 +1,11 @@
 import { CSSProperties } from 'react';
 import Script from 'next/script';
 
-import ClientLayout from './clientLayout';
 
 // global styles
 import '../styles/globals.css';
 import Link from 'next/link';
+import DummyLayout from './dummyLayout';
 
 const GoogleTagStyles: CSSProperties = {
   display: 'none',
@@ -60,7 +60,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Link href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
           Click w3
         </Link>
-        <ClientLayout>{children}</ClientLayout>
+        <DummyLayout>{children}</DummyLayout>
       </body>
     </html>
   );
